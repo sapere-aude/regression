@@ -8,10 +8,26 @@
    "Blocked": false
  },
  {
+   "FormattedID": "US20207",
+   "Name": "Qualification Hierarchy",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 24,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20208",
    "Name": "Employee License Management and Validation",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20209",
+   "Name": "Trades and Offers",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
@@ -29,22 +45,6 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 2,
    "TaskRemainingTotal": 0,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20207",
-   "Name": "Qualification Hierarchy",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 28,
-   "TaskRemainingTotal": 20,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20209",
-   "Name": "Trades and Offers",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 18,
-   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
@@ -77,7 +77,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 38,
    "TaskRemainingTotal": 3,
-   "Blocked": true
+   "Blocked": false
  },
  {
    "FormattedID": "US20222",
