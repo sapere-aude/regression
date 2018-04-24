@@ -1,0 +1,250 @@
+[
+ {
+   "FormattedID": "US20206",
+   "Name": "Profile and Position Management",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20208",
+   "Name": "Employee License Management and Validation",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20211",
+   "Name": "Request to Work",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20213",
+   "Name": "Request Time Off (PTO)",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 2,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20207",
+   "Name": "Qualification Hierarchy",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 28,
+   "TaskRemainingTotal": 20,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20209",
+   "Name": "Trades and Offers",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 18,
+   "TaskRemainingTotal": 2,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20212",
+   "Name": "Self Scheduling",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 20,
+   "TaskRemainingTotal": 18,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20214",
+   "Name": "ActiveRoster - Regression Testing",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 0,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20215",
+   "Name": "Current Staffing Overview",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 20,
+   "TaskRemainingTotal": 20,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20221",
+   "Name": "Employee Functionality",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 38,
+   "TaskRemainingTotal": 3,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20222",
+   "Name": "Supervisor Functionality - General",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 6,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20223",
+   "Name": "Exclusion Times",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 3,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20265",
+   "Name": "Supervisor Functionality - Actions Section",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 2,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20266",
+   "Name": "Supervisor Functionality - Transaction Grid",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 4,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20267",
+   "Name": "Supervisor Functionality - Transaction List",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 18,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US21113",
+   "Name": "F2809 - Regression Test Placeholder",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 7,
+   "TaskRemainingTotal": 7,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20210",
+   "Name": "API Notification Engine and History (Open Shifts)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 5,
+   "TaskRemainingTotal": 5,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20216",
+   "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 12,
+   "TaskRemainingTotal": 12,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20217",
+   "Name": "Minimum Scheduling (Commitments)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 12,
+   "TaskRemainingTotal": 12,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20218",
+   "Name": "Staffing Recalculation Process (Models)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 14,
+   "TaskRemainingTotal": 14,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20219",
+   "Name": "Rules Processing",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 6,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20220",
+   "Name": "Retro Calcs",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 10,
+   "TaskRemainingTotal": 10,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20224",
+   "Name": "Reporting",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 18,
+   "TaskRemainingTotal": 18,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20225",
+   "Name": "Email and Portal Notifications",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 4,
+   "Blocked": true
+ },
+ {
+   "FormattedID": "US20226",
+   "Name": "Auditing",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 4,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20227",
+   "Name": "Pay Period Close (Manual and Automated)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 16,
+   "TaskRemainingTotal": 16,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20228",
+   "Name": "External (Interfaces, Downloads, Services)",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 10,
+   "TaskRemainingTotal": 10,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20229",
+   "Name": "Application Tools",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 8,
+   "TaskRemainingTotal": 8,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20242",
+   "Name": "Report Compares",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 16,
+   "TaskRemainingTotal": 16,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20243",
+   "Name": "Calc Compares",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 24,
+   "TaskRemainingTotal": 24,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20329",
+   "Name": "Regression Defects Yet To Be Triaged",
+   "ScheduleState": "Defined",
+   "TaskEstimateTotal": 0,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ }
+]

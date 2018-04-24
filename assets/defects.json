@@ -1,0 +1,263 @@
+[
+ {
+   "FormattedID": "DE7865",
+   "Name": "Process Developer - Could not load API.Healthcare.Platform.Common.Web assembly",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 9,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7936",
+   "Name": "Add Schedule on Active Roster or Assign on CSO not working",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Completed"
+ },
+ {
+   "FormattedID": "DE7942",
+   "Name": "Opening a Broadcast-ed shift throws an error",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 24,
+   "ToDo": 24,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE7943",
+   "Name": "Exception occurs while adding adjustment request",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 8,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE7953",
+   "Name": "System is throwing unhandled exception on Benefits Plan view",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE7857",
+   "Name": "Self Schedule: Unhanded Exception when Employee tried to Self Schedule",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7859",
+   "Name": "Activity Code lookup on Broadcast window not returning any data",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7860",
+   "Name": "Sporadically you see 'Dashboard Server must be running' message on silverlight windows",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE7891",
+   "Name": "TimeoutException in Primary n Agent Console log",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7900",
+   "Name": "Error occurs when starting the File Share Server",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 12,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7906",
+   "Name": "Agent server n Primary Server consoles throwing HttpResponseException because of 'localhost' reference in action response",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 10,
+   "ToDo": 10,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE7954",
+   "Name": "Doing calc me now after adding Attendance transactions throws alerts",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7956",
+   "Name": "System Trigger indicators are not honored for Schedule Validation and Qualifications process executions",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8007",
+   "Name": "(Datetime) - Unable to save calendar with in the exclusion time window for current pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Completed"
+ },
+ {
+   "FormattedID": "DE8023",
+   "Name": "Needs missing in Active Roster-Can be seen in CSO",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 16,
+   "ToDo": 8,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8037",
+   "Name": "(Datetime) - Unable to save calendar/clocking with in the exclusion time window for Exclusion Type -pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
+ },
+ {
+   "FormattedID": "DE8038",
+   "Name": "Exclusion Times - Able to save calendar with in the exclusion time window for current pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7851",
+   "Name": "Admin/Supervisor has to perform Delete Request twice to get the transaction record deleted.",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7852",
+   "Name": "Cancel Note Button not  display in Chrome Browser",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7854",
+   "Name": "Delete Adjustment request throws  unauthorized operation error",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7892",
+   "Name": "Intermittently  - You are not authorized to view the request page Authorization warning page appears",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7897",
+   "Name": "(Datetime) Transaction - Request Differences  has incorrect offsets",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7907",
+   "Name": "Host Name for Agent,Staffing and Mobile Console pages is named as Primary",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7909",
+   "Name": "WhenScheduled and WhenCompleted timestamp values not getting updated",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7919",
+   "Name": "Transaction List - Multi Checkbox Selection not working",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7955",
+   "Name": "Console page doesn't always properly re-route to the console",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7964",
+   "Name": "(Datetime)   EmployeeRequest Table - When Reviewed shows incorrect offset",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8035",
+   "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7925",
+   "Name": "“Save” button is enabled on the “Unavailability Requests” card when user cannot save/edit",
+   "Severity": "4 - Cosmetic",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ }
+]
