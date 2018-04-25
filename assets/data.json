@@ -85,7 +85,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 6,
-   "Blocked": true
+   "Blocked": false
  },
  {
    "FormattedID": "US20223",
