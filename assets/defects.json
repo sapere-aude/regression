@@ -177,7 +177,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7954",
@@ -282,6 +282,15 @@
    "FormattedID": "DE8053",
    "Name": "Employee Sections- Addresses and Phones screens not shows valid message upon deleting the last record",
    "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8055",
+   "Name": "MessageTimeoutException for ScheduleQualificationForAll process",
+   "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
