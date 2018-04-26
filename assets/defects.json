@@ -157,8 +157,8 @@
    "Name": "Opening a Broadcast-ed shift throws an error",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 24,
-   "ToDo": 24,
+   "TaskEstimateTotal": 28,
+   "ToDo": 12,
    "ScheduleState": "In-Progress"
  },
  {
@@ -217,7 +217,7 @@
  },
  {
    "FormattedID": "DE8006",
-   "Name": "Active Roster-Calendar transaction Org/Productive columns Mismatch",
+   "Name": "Active Roster-Calendar transaction Mismatch and Productive columns not checked",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
@@ -291,6 +291,42 @@
    "FormattedID": "DE8055",
    "Name": "MessageTimeoutException for ScheduleQualificationForAll process",
    "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 10,
+   "ToDo": 10,
+   "ScheduleState": "Defined"
+ },
+ {
+   "FormattedID": "DE8059",
+   "Name": "(Datetime)Report Instance table - WhenExpire column shows incorrect datetime offset",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8062",
+   "Name": "Exclusive User - Add search results throws '404- File or directory not found' server error",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8064",
+   "Name": "Unhanded Exception when Supervisor tries to approve a duplicate request",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8071",
+   "Name": "HttpException: File does not exist Alert",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
