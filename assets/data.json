@@ -114,7 +114,7 @@
  {
    "FormattedID": "US20216",
    "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
-   "ScheduleState": "Defined",
+   "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
    "TaskRemainingTotal": 12,
    "Blocked": false
@@ -156,7 +156,7 @@
    "Name": "Supervisor Functionality - General",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 6,
+   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
@@ -220,7 +220,7 @@
    "Name": "Supervisor Functionality - Transaction Grid",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 4,
+   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
