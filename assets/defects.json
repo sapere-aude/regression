@@ -105,7 +105,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 10,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Defined"
  },
  {
    "FormattedID": "DE7907",
@@ -158,7 +158,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 28,
-   "ToDo": 12,
+   "ToDo": 4,
    "ScheduleState": "In-Progress"
  },
  {
@@ -220,9 +220,9 @@
    "Name": "Active Roster-Calendar transaction Mismatch and Productive columns not checked",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 6,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8007",
@@ -249,7 +249,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8037",
@@ -272,7 +272,7 @@
  {
    "FormattedID": "DE8047",
    "Name": "Transactions -  RequestHistory Tab Save Button is not aligned with page events",
-   "Severity": "3 - Minor Problem",
+   "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -285,7 +285,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8055",
@@ -294,7 +294,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 10,
-   "ScheduleState": "Defined"
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8059",
@@ -322,6 +322,24 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8066",
+   "Name": "2 Alerts generate when scheduletrade offer is approved.",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 8,
+   "ToDo": 8,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8067",
+   "Name": "Adding a schedule note on CSO window throws 2 errors",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8071",
