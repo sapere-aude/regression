@@ -238,13 +238,5 @@
    "TaskEstimateTotal": 0,
    "TaskRemainingTotal": 0,
    "Blocked": false
- },
- {
-   "FormattedID": "US21113",
-   "Name": "F2809 - Regression Test Placeholder",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 7,
-   "TaskRemainingTotal": 7,
-   "Blocked": false
  }
 ]
