@@ -6,7 +6,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "03/29/2018 02:58 PM CDT"
  },
  {
    "FormattedID": "DE7852",
@@ -15,7 +16,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "03/29/2018 03:03 PM CDT"
  },
  {
    "FormattedID": "DE7854",
@@ -24,7 +26,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "03/29/2018 03:10 PM CDT"
  },
  {
    "FormattedID": "DE7857",
@@ -33,7 +36,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "03/30/2018 10:27 AM CDT"
  },
  {
    "FormattedID": "DE7859",
@@ -42,7 +46,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "03/30/2018 11:07 AM CDT"
  },
  {
    "FormattedID": "DE7860",
@@ -51,7 +56,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "In-Progress",
+   "CreationDate": "03/30/2018 11:29 AM CDT"
  },
  {
    "FormattedID": "DE7865",
@@ -60,7 +66,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 9,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "03/31/2018 12:42 PM CDT"
  },
  {
    "FormattedID": "DE7891",
@@ -69,7 +76,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/04/2018 11:51 AM CDT"
  },
  {
    "FormattedID": "DE7892",
@@ -78,7 +86,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/04/2018 12:47 PM CDT"
  },
  {
    "FormattedID": "DE7897",
@@ -87,7 +96,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/04/2018 02:38 PM CDT"
  },
  {
    "FormattedID": "DE7900",
@@ -96,7 +106,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 12,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/04/2018 04:27 PM CDT"
  },
  {
    "FormattedID": "DE7906",
@@ -105,7 +116,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 10,
-   "ScheduleState": "Defined"
+   "ScheduleState": "Defined",
+   "CreationDate": "04/05/2018 11:10 AM CDT"
  },
  {
    "FormattedID": "DE7907",
@@ -114,7 +126,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/05/2018 11:24 AM CDT"
  },
  {
    "FormattedID": "DE7909",
@@ -123,7 +136,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/05/2018 11:38 AM CDT"
  },
  {
    "FormattedID": "DE7919",
@@ -132,7 +146,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/06/2018 02:26 PM CDT"
  },
  {
    "FormattedID": "DE7925",
@@ -141,7 +156,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/09/2018 11:28 AM CDT"
  },
  {
    "FormattedID": "DE7936",
@@ -150,7 +166,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/10/2018 01:02 PM CDT"
  },
  {
    "FormattedID": "DE7942",
@@ -159,7 +176,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 28,
    "ToDo": 4,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/11/2018 12:16 PM CDT"
  },
  {
    "FormattedID": "DE7943",
@@ -168,7 +186,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/11/2018 04:51 PM CDT"
  },
  {
    "FormattedID": "DE7953",
@@ -177,7 +196,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/12/2018 04:18 PM CDT"
  },
  {
    "FormattedID": "DE7954",
@@ -186,7 +206,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/13/2018 10:23 AM CDT"
  },
  {
    "FormattedID": "DE7955",
@@ -195,7 +216,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/13/2018 11:00 AM CDT"
  },
  {
    "FormattedID": "DE7956",
@@ -204,7 +226,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/13/2018 02:29 PM CDT"
  },
  {
    "FormattedID": "DE7964",
@@ -213,7 +236,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/16/2018 01:33 PM CDT"
  },
  {
    "FormattedID": "DE8006",
@@ -222,7 +246,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 2,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/18/2018 02:54 PM CDT"
  },
  {
    "FormattedID": "DE8007",
@@ -231,7 +256,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Completed",
+   "CreationDate": "04/18/2018 03:03 PM CDT"
  },
  {
    "FormattedID": "DE8023",
@@ -240,7 +266,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 8,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/20/2018 10:31 AM CDT"
  },
  {
    "FormattedID": "DE8035",
@@ -249,7 +276,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/23/2018 03:24 PM CDT"
  },
  {
    "FormattedID": "DE8037",
@@ -258,7 +286,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Defined"
+   "ScheduleState": "Defined",
+   "CreationDate": "04/23/2018 04:09 PM CDT"
  },
  {
    "FormattedID": "DE8038",
@@ -267,7 +296,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/23/2018 04:21 PM CDT"
  },
  {
    "FormattedID": "DE8047",
@@ -276,7 +306,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/24/2018 01:31 PM CDT"
  },
  {
    "FormattedID": "DE8053",
@@ -285,7 +316,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ScheduleState": "Accepted",
+   "CreationDate": "04/24/2018 02:57 PM CDT"
  },
  {
    "FormattedID": "DE8055",
@@ -294,7 +326,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 10,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/24/2018 04:17 PM CDT"
  },
  {
    "FormattedID": "DE8059",
@@ -303,16 +336,18 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/25/2018 09:10 AM CDT"
  },
  {
    "FormattedID": "DE8062",
    "Name": "Exclusive User - Add search results throws '404- File or directory not found' server error",
-   "Severity": "2 - Major Problem",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/25/2018 11:06 AM CDT"
  },
  {
    "FormattedID": "DE8064",
@@ -321,7 +356,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/25/2018 01:55 PM CDT"
  },
  {
    "FormattedID": "DE8066",
@@ -329,8 +365,9 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
-   "ToDo": 8,
-   "ScheduleState": "In-Progress"
+   "ToDo": 0,
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/25/2018 02:33 PM CDT"
  },
  {
    "FormattedID": "DE8067",
@@ -339,15 +376,27 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 2,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/25/2018 03:12 PM CDT"
  },
  {
    "FormattedID": "DE8071",
    "Name": "HttpException: File does not exist Alert",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress",
+   "CreationDate": "04/25/2018 04:00 PM CDT"
+ },
+ {
+   "FormattedID": "DE8085",
+   "Name": "Object reference not set error is thrown when CloudLicense value is NULL in database",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Backlog",
+   "CreationDate": "04/27/2018 03:40 PM CDT"
  }
 ]
