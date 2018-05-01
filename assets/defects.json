@@ -420,43 +420,43 @@
    "Creation Date": "04/25/2018 04:00 PM CDT"
  },
  {
-   "Formatted ID": "DE8085",
+   "FormattedID": "DE8085",
    "Name": "Object reference not set error is thrown when CloudLicense value is NULL in database",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
    "Schedule State": "Backlog",
    "Creation Date": "04/27/2018 03:40 PM CDT"
  },
  {
-   "Formatted ID": "DE8086",
+   "FormattedID": "DE8086",
    "Name": "Registered Applications link does not open up from DispatchServer2",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
    "Creation Date": "04/27/2018 03:50 PM CDT"
  },
  {
-   "Formatted ID": "DE8090",
+   "FormattedID": "DE8090",
    "Name": "Notes: Trying to add Notes to Calendar its not saving",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 2.5,
-   "To Do": 0.5,
-   "Schedule State": "In-Progress",
+   "TaskEstimateTotal": 2.5,
+   "ToDo": 0.5,
+   "ScheduleState": "In-Progress",
    "Creation Date": "04/30/2018 11:10 AM CDT"
  },
  {
-   "Formatted ID": "DE8091",
+   "FormattedID": "DE8091",
    "Name": "No Acceptance Confirmation email been generated for Claimed broadcast",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
    "Creation Date": "04/30/2018 12:31 PM CDT"
  }
 ]
