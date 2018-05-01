@@ -84,7 +84,7 @@
    "Name": "Self Scheduling",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 20,
-   "TaskRemainingTotal": 18,
+   "TaskRemainingTotal": 16,
    "Blocked": false
  },
  {
@@ -107,8 +107,8 @@
    "FormattedID": "US20215",
    "Name": "Current Staffing Overview",
    "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 20,
-   "TaskRemainingTotal": 20,
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 22,
    "Blocked": false
  },
  {
