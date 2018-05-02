@@ -50,16 +50,6 @@
    "CreationDate": "03/30/2018 11:07 AM CDT"
  },
  {
-   "FormattedID": "DE7860",
-   "Name": "Sporadically you see 'Dashboard Server must be running' message on silverlight windows",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 4,
-   "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "CreationDate": "03/30/2018 11:29 AM CDT"
- },
- {
    "FormattedID": "DE7865",
    "Name": "Process Developer - Could not load API.Healthcare.Platform.Common.Web assembly",
    "Severity": "1 - Crash/Data Loss",
