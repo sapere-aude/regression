@@ -6,7 +6,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "03/29/2018 02:58 PM CDT"
  },
  {
@@ -16,7 +16,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "03/29/2018 03:03 PM CDT"
  },
  {
@@ -26,7 +26,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "03/29/2018 03:10 PM CDT"
  },
  {
@@ -36,7 +36,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "03/30/2018 10:27 AM CDT"
  },
  {
@@ -46,7 +46,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "03/30/2018 11:07 AM CDT"
  },
  {
@@ -56,7 +56,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "03/30/2018 11:29 AM CDT"
  },
  {
@@ -66,7 +66,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 9,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "03/31/2018 12:42 PM CDT"
  },
  {
@@ -76,7 +76,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/04/2018 11:51 AM CDT"
  },
  {
@@ -86,7 +86,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/04/2018 12:47 PM CDT"
  },
  {
@@ -96,7 +96,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/04/2018 02:38 PM CDT"
  },
  {
@@ -106,7 +106,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 12,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/04/2018 04:27 PM CDT"
  },
  {
@@ -116,7 +116,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 6,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/05/2018 11:10 AM CDT"
  },
  {
@@ -126,7 +126,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/05/2018 11:24 AM CDT"
  },
  {
@@ -136,7 +136,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/05/2018 11:38 AM CDT"
  },
  {
@@ -146,7 +146,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/06/2018 02:26 PM CDT"
  },
  {
@@ -156,7 +156,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/09/2018 11:28 AM CDT"
  },
  {
@@ -166,7 +166,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/10/2018 01:02 PM CDT"
  },
  {
@@ -176,7 +176,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 28,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/11/2018 12:16 PM CDT"
  },
  {
@@ -186,7 +186,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/11/2018 04:51 PM CDT"
  },
  {
@@ -196,7 +196,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/12/2018 04:18 PM CDT"
  },
  {
@@ -206,7 +206,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/13/2018 10:23 AM CDT"
  },
  {
@@ -216,7 +216,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/13/2018 11:00 AM CDT"
  },
  {
@@ -226,7 +226,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/13/2018 02:29 PM CDT"
  },
  {
@@ -236,7 +236,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/16/2018 01:33 PM CDT"
  },
  {
@@ -246,7 +246,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 2,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/18/2018 02:54 PM CDT"
  },
  {
@@ -256,7 +256,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Completed",
+   "ScheduleState": "Completed",
    "CreationDate": "04/18/2018 03:03 PM CDT"
  },
  {
@@ -266,7 +266,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 8,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/20/2018 10:31 AM CDT"
  },
  {
@@ -276,7 +276,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/23/2018 03:24 PM CDT"
  },
  {
@@ -286,7 +286,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Defined",
+   "ScheduleState": "Defined",
    "CreationDate": "04/23/2018 04:09 PM CDT"
  },
  {
@@ -296,7 +296,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/23/2018 04:21 PM CDT"
  },
  {
@@ -306,7 +306,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/24/2018 01:17 PM CDT"
  },
  {
@@ -316,7 +316,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/24/2018 01:31 PM CDT"
  },
  {
@@ -326,7 +326,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/24/2018 01:31 PM CDT"
  },
  {
@@ -336,7 +336,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/24/2018 01:47 PM CDT"
  },
  {
@@ -346,7 +346,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Accepted",
+   "ScheduleState": "Accepted",
    "CreationDate": "04/24/2018 02:57 PM CDT"
  },
  {
@@ -356,7 +356,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
    "ToDo": 3,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/24/2018 04:17 PM CDT"
  },
  {
@@ -366,7 +366,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/25/2018 09:10 AM CDT"
  },
  {
@@ -376,7 +376,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/25/2018 11:06 AM CDT"
  },
  {
@@ -386,7 +386,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/25/2018 01:55 PM CDT"
  },
  {
@@ -396,7 +396,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
    "ToDo": 0,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/25/2018 02:33 PM CDT"
  },
  {
@@ -406,7 +406,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 0,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/25/2018 03:12 PM CDT"
  },
  {
@@ -416,7 +416,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
    "ToDo": 1,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/25/2018 04:00 PM CDT"
  },
  {
@@ -426,7 +426,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/27/2018 03:40 PM CDT"
  },
  {
@@ -436,7 +436,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "04/27/2018 03:50 PM CDT"
  },
  {
@@ -446,7 +446,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2.5,
    "ToDo": 0.5,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/30/2018 11:10 AM CDT"
  },
  {
@@ -456,7 +456,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 2,
-   "Schedule State": "In-Progress",
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/30/2018 12:31 PM CDT"
  },
  {
@@ -466,7 +466,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "Schedule State": "Backlog",
+   "ScheduleState": "Backlog",
    "CreationDate": "05/01/2018 02:17 PM CDT"
  }
 ]
