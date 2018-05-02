@@ -1,13 +1,5 @@
 [
  {
-   "FormattedID": "US20210",
-   "Name": "API Notification Engine and History (Open Shifts)",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 5,
-   "TaskRemainingTotal": 5,
-   "Blocked": true
- },
- {
    "FormattedID": "US20220",
    "Name": "Retro Calcs",
    "ScheduleState": "Defined",
@@ -72,6 +64,14 @@
    "Blocked": false
  },
  {
+   "FormattedID": "US20210",
+   "Name": "API Notification Engine and History (Open Shifts)",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 5,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20211",
    "Name": "Request to Work",
    "ScheduleState": "Accepted",
@@ -116,7 +116,7 @@
    "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 12,
+   "TaskRemainingTotal": 8,
    "Blocked": false
  },
  {
@@ -146,9 +146,9 @@
  {
    "FormattedID": "US20221",
    "Name": "Employee Functionality",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 46,
-   "TaskRemainingTotal": 8,
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 38,
+   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
@@ -228,7 +228,7 @@
    "Name": "Supervisor Functionality - Transaction List",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 7,
+   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
