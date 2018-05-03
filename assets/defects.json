@@ -50,6 +50,16 @@
    "CreationDate": "03/30/2018 11:07 AM CDT"
  },
  {
+   "FormattedID": "DE7860",
+   "Name": "Sporadically you see 'Dashboard Server must be running' message on silverlight windows",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress",
+   "CreationDate": "03/30/2018 11:29 AM CDT"
+ },
+ {
    "FormattedID": "DE7865",
    "Name": "Process Developer - Could not load API.Healthcare.Platform.Common.Web assembly",
    "Severity": "1 - Crash/Data Loss",
@@ -275,8 +285,8 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Defined",
+   "ToDo": 2,
+   "ScheduleState": "In-Progress",
    "CreationDate": "04/23/2018 04:09 PM CDT"
  },
  {
@@ -286,13 +296,13 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
+   "ScheduleState": "Defined",
    "CreationDate": "04/23/2018 04:21 PM CDT"
  },
  {
    "FormattedID": "DE8045",
    "Name": "Extra Shift icon not displayed on CSO screen.",
-   "Severity": "3 - Minor Problem",
+   "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -456,7 +466,47 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
+   "ScheduleState": "In-Progress",
    "CreationDate": "05/01/2018 02:17 PM CDT"
+ },
+ {
+   "FormattedID": "DE8099",
+   "Name": "Employee Search is not working on CSO screen",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "CreationDate": "05/02/2018 10:11 AM CDT"
+ },
+ {
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "CreationDate": "05/02/2018 10:59 AM CDT"
+ },
+ {
+   "FormattedID": "DE8101",
+   "Name": "Roster tab not displaying data in certain scenarios",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "CreationDate": "05/02/2018 02:43 PM CDT"
+ },
+ {
+   "FormattedID": "DE8103",
+   "Name": "Adding a  calendar from employee throws an error",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "CreationDate": "05/02/2018 04:00 PM CDT"
  }
 ]
