@@ -7,7 +7,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "03/29/2018 02:58 PM CDT"
+   "Creation Date": "03/29/2018 02:58 PM CDT"
  },
  {
    "FormattedID": "DE7852",
@@ -17,7 +17,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "03/29/2018 03:03 PM CDT"
+   "Creation Date": "03/29/2018 03:03 PM CDT"
  },
  {
    "FormattedID": "DE7854",
@@ -27,7 +27,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "03/29/2018 03:10 PM CDT"
+   "Creation Date": "03/29/2018 03:10 PM CDT"
  },
  {
    "FormattedID": "DE7857",
@@ -37,7 +37,7 @@
    "TaskEstimateTotal": 4,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "03/30/2018 10:27 AM CDT"
+   "Creation Date": "03/30/2018 10:27 AM CDT"
  },
  {
    "FormattedID": "DE7859",
@@ -47,7 +47,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "03/30/2018 11:07 AM CDT"
+   "Creation Date": "03/30/2018 11:07 AM CDT"
  },
  {
    "FormattedID": "DE7860",
@@ -57,7 +57,7 @@
    "TaskEstimateTotal": 4,
    "ToDo": 0,
    "ScheduleState": "In-Progress",
-   "CreationDate": "03/30/2018 11:29 AM CDT"
+   "Creation Date": "03/30/2018 11:29 AM CDT"
  },
  {
    "FormattedID": "DE7865",
@@ -67,7 +67,7 @@
    "TaskEstimateTotal": 9,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "03/31/2018 12:42 PM CDT"
+   "Creation Date": "03/31/2018 12:42 PM CDT"
  },
  {
    "FormattedID": "DE7891",
@@ -77,7 +77,7 @@
    "TaskEstimateTotal": 6,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/04/2018 11:51 AM CDT"
+   "Creation Date": "04/04/2018 11:51 AM CDT"
  },
  {
    "FormattedID": "DE7892",
@@ -87,7 +87,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/04/2018 12:47 PM CDT"
+   "Creation Date": "04/04/2018 12:47 PM CDT"
  },
  {
    "FormattedID": "DE7897",
@@ -97,7 +97,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/04/2018 02:38 PM CDT"
+   "Creation Date": "04/04/2018 02:38 PM CDT"
  },
  {
    "FormattedID": "DE7900",
@@ -107,17 +107,17 @@
    "TaskEstimateTotal": 12,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/04/2018 04:27 PM CDT"
+   "Creation Date": "04/04/2018 04:27 PM CDT"
  },
  {
    "FormattedID": "DE7906",
    "Name": "Agent server n Primary Server consoles throwing HttpResponseException because of 'localhost' reference in action response",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 10,
-   "ToDo": 6,
+   "TaskEstimateTotal": 14,
+   "ToDo": 2,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/05/2018 11:10 AM CDT"
+   "Creation Date": "04/05/2018 11:10 AM CDT"
  },
  {
    "FormattedID": "DE7907",
@@ -127,7 +127,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/05/2018 11:24 AM CDT"
+   "Creation Date": "04/05/2018 11:24 AM CDT"
  },
  {
    "FormattedID": "DE7909",
@@ -137,7 +137,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/05/2018 11:38 AM CDT"
+   "Creation Date": "04/05/2018 11:38 AM CDT"
  },
  {
    "FormattedID": "DE7919",
@@ -147,7 +147,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/06/2018 02:26 PM CDT"
+   "Creation Date": "04/06/2018 02:26 PM CDT"
  },
  {
    "FormattedID": "DE7925",
@@ -157,7 +157,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/09/2018 11:28 AM CDT"
+   "Creation Date": "04/09/2018 11:28 AM CDT"
  },
  {
    "FormattedID": "DE7936",
@@ -167,7 +167,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/10/2018 01:02 PM CDT"
+   "Creation Date": "04/10/2018 01:02 PM CDT"
  },
  {
    "FormattedID": "DE7942",
@@ -177,7 +177,7 @@
    "TaskEstimateTotal": 28,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/11/2018 12:16 PM CDT"
+   "Creation Date": "04/11/2018 12:16 PM CDT"
  },
  {
    "FormattedID": "DE7943",
@@ -187,7 +187,7 @@
    "TaskEstimateTotal": 8,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/11/2018 04:51 PM CDT"
+   "Creation Date": "04/11/2018 04:51 PM CDT"
  },
  {
    "FormattedID": "DE7953",
@@ -197,7 +197,7 @@
    "TaskEstimateTotal": 4,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/12/2018 04:18 PM CDT"
+   "Creation Date": "04/12/2018 04:18 PM CDT"
  },
  {
    "FormattedID": "DE7954",
@@ -207,7 +207,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/13/2018 10:23 AM CDT"
+   "Creation Date": "04/13/2018 10:23 AM CDT"
  },
  {
    "FormattedID": "DE7955",
@@ -217,7 +217,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/13/2018 11:00 AM CDT"
+   "Creation Date": "04/13/2018 11:00 AM CDT"
  },
  {
    "FormattedID": "DE7956",
@@ -227,7 +227,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/13/2018 02:29 PM CDT"
+   "Creation Date": "04/13/2018 02:29 PM CDT"
  },
  {
    "FormattedID": "DE7964",
@@ -237,7 +237,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/16/2018 01:33 PM CDT"
+   "Creation Date": "04/16/2018 01:33 PM CDT"
  },
  {
    "FormattedID": "DE8006",
@@ -247,7 +247,7 @@
    "TaskEstimateTotal": 6,
    "ToDo": 2,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/18/2018 02:54 PM CDT"
+   "Creation Date": "04/18/2018 02:54 PM CDT"
  },
  {
    "FormattedID": "DE8007",
@@ -257,7 +257,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Completed",
-   "CreationDate": "04/18/2018 03:03 PM CDT"
+   "Creation Date": "04/18/2018 03:03 PM CDT"
  },
  {
    "FormattedID": "DE8023",
@@ -265,9 +265,9 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
-   "ToDo": 8,
+   "ToDo": 0,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/20/2018 10:31 AM CDT"
+   "Creation Date": "04/20/2018 10:31 AM CDT"
  },
  {
    "FormattedID": "DE8035",
@@ -277,7 +277,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/23/2018 03:24 PM CDT"
+   "Creation Date": "04/23/2018 03:24 PM CDT"
  },
  {
    "FormattedID": "DE8037",
@@ -287,7 +287,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 2,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/23/2018 04:09 PM CDT"
+   "Creation Date": "04/23/2018 04:09 PM CDT"
  },
  {
    "FormattedID": "DE8038",
@@ -297,7 +297,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Defined",
-   "CreationDate": "04/23/2018 04:21 PM CDT"
+   "Creation Date": "04/23/2018 04:21 PM CDT"
  },
  {
    "FormattedID": "DE8045",
@@ -307,7 +307,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/24/2018 01:17 PM CDT"
+   "Creation Date": "04/24/2018 01:17 PM CDT"
  },
  {
    "FormattedID": "DE8047",
@@ -317,7 +317,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/24/2018 01:31 PM CDT"
+   "Creation Date": "04/24/2018 01:31 PM CDT"
  },
  {
    "FormattedID": "DE8048",
@@ -327,7 +327,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/24/2018 01:31 PM CDT"
+   "Creation Date": "04/24/2018 01:31 PM CDT"
  },
  {
    "FormattedID": "DE8051",
@@ -337,7 +337,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/24/2018 01:47 PM CDT"
+   "Creation Date": "04/24/2018 01:47 PM CDT"
  },
  {
    "FormattedID": "DE8053",
@@ -347,17 +347,17 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted",
-   "CreationDate": "04/24/2018 02:57 PM CDT"
+   "Creation Date": "04/24/2018 02:57 PM CDT"
  },
  {
    "FormattedID": "DE8055",
    "Name": "MessageTimeoutException for ScheduleQualificationForAll process",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 10,
-   "ToDo": 3,
-   "ScheduleState": "In-Progress",
-   "CreationDate": "04/24/2018 04:17 PM CDT"
+   "TaskEstimateTotal": 11,
+   "ToDo": 0,
+   "ScheduleState": "Accepted",
+   "Creation Date": "04/24/2018 04:17 PM CDT"
  },
  {
    "FormattedID": "DE8059",
@@ -367,7 +367,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/25/2018 09:10 AM CDT"
+   "Creation Date": "04/25/2018 09:10 AM CDT"
  },
  {
    "FormattedID": "DE8062",
@@ -377,7 +377,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/25/2018 11:06 AM CDT"
+   "Creation Date": "04/25/2018 11:06 AM CDT"
  },
  {
    "FormattedID": "DE8064",
@@ -387,7 +387,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/25/2018 01:55 PM CDT"
+   "Creation Date": "04/25/2018 01:55 PM CDT"
  },
  {
    "FormattedID": "DE8066",
@@ -397,7 +397,7 @@
    "TaskEstimateTotal": 8,
    "ToDo": 0,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/25/2018 02:33 PM CDT"
+   "Creation Date": "04/25/2018 02:33 PM CDT"
  },
  {
    "FormattedID": "DE8067",
@@ -407,7 +407,7 @@
    "TaskEstimateTotal": 6,
    "ToDo": 0,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/25/2018 03:12 PM CDT"
+   "Creation Date": "04/25/2018 03:12 PM CDT"
  },
  {
    "FormattedID": "DE8071",
@@ -417,7 +417,7 @@
    "TaskEstimateTotal": 2,
    "ToDo": 1,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/25/2018 04:00 PM CDT"
+   "Creation Date": "04/25/2018 04:00 PM CDT"
  },
  {
    "FormattedID": "DE8085",
@@ -427,7 +427,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/27/2018 03:40 PM CDT"
+   "Creation Date": "04/27/2018 03:40 PM CDT"
  },
  {
    "FormattedID": "DE8086",
@@ -437,7 +437,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "04/27/2018 03:50 PM CDT"
+   "Creation Date": "04/27/2018 03:50 PM CDT"
  },
  {
    "FormattedID": "DE8090",
@@ -445,9 +445,9 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2.5,
-   "ToDo": 0.5,
+   "ToDo": 0,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/30/2018 11:10 AM CDT"
+   "Creation Date": "04/30/2018 11:10 AM CDT"
  },
  {
    "FormattedID": "DE8091",
@@ -457,7 +457,7 @@
    "TaskEstimateTotal": 0,
    "ToDo": 2,
    "ScheduleState": "In-Progress",
-   "CreationDate": "04/30/2018 12:31 PM CDT"
+   "Creation Date": "04/30/2018 12:31 PM CDT"
  },
  {
    "FormattedID": "DE8097",
@@ -466,8 +466,8 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "CreationDate": "05/01/2018 02:17 PM CDT"
+   "ScheduleState": "Accepted",
+   "Creation Date": "05/01/2018 02:17 PM CDT"
  },
  {
    "FormattedID": "DE8099",
@@ -477,36 +477,46 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "05/02/2018 10:11 AM CDT"
+   "Creation Date": "05/02/2018 10:11 AM CDT"
  },
  {
    "FormattedID": "DE8100",
    "Name": "Compare staff window is missing some data",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "CreationDate": "05/02/2018 10:59 AM CDT"
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "05/02/2018 10:59 AM CDT"
  },
  {
    "FormattedID": "DE8101",
    "Name": "Roster tab not displaying data in certain scenarios",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "CreationDate": "05/02/2018 02:43 PM CDT"
+   "TaskEstimateTotal": 14,
+   "ToDo": 10,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "05/02/2018 02:43 PM CDT"
  },
  {
    "FormattedID": "DE8103",
    "Name": "Adding a  calendar from employee throws an error",
-   "Severity": "3 - Minor Problem",
+   "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "CreationDate": "05/02/2018 04:00 PM CDT"
+   "Creation Date": "05/02/2018 04:00 PM CDT"
+ },
+ {
+   "FormattedID": "DE8106",
+   "Name": "DateTime Issue with Rotating Schedule Templates",
+   "Severity": "",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/03/2018 11:24 AM CDT"
  }
 ]
