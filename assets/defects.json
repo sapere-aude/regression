@@ -270,16 +270,6 @@
    "Creation Date": "04/23/2018 03:24 PM CDT"
  },
  {
-   "FormattedID": "DE8037",
-   "Name": "Unable to save calendar/clocking with in the exclusion time window for Exclusion Type -pay period",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 2,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/23/2018 04:09 PM CDT"
- },
- {
    "FormattedID": "DE8038",
    "Name": "Exclusion Times - Able to save calendar with in the exclusion time window",
    "Severity": "2 - Major Problem",
