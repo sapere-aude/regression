@@ -250,16 +250,6 @@
    "Creation Date": "04/18/2018 02:54 PM CDT"
  },
  {
-   "FormattedID": "DE8007",
-   "Name": "(Datetime) - Unable to save calendar with in the exclusion time window for current pay period",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Completed",
-   "Creation Date": "04/18/2018 03:03 PM CDT"
- },
- {
    "FormattedID": "DE8023",
    "Name": "Needs missing in Active Roster-Can be seen in CSO",
    "Severity": "2 - Major Problem",
@@ -388,26 +378,6 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "04/25/2018 01:55 PM CDT"
- },
- {
-   "FormattedID": "DE8066",
-   "Name": "2 Alerts generate when scheduletrade offer is approved.",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 8,
-   "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/25/2018 02:33 PM CDT"
- },
- {
-   "FormattedID": "DE8067",
-   "Name": "Adding a schedule note on CSO window throws 2 errors",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 6,
-   "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/25/2018 03:12 PM CDT"
  },
  {
    "FormattedID": "DE8071",
