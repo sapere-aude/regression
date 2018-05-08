@@ -245,9 +245,19 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
-   "ToDo": 2,
-   "ScheduleState": "In-Progress",
+   "ToDo": 0,
+   "ScheduleState": "Completed",
    "Creation Date": "04/18/2018 02:54 PM CDT"
+ },
+ {
+   "FormattedID": "DE8007",
+   "Name": "(Datetime) - Unable to save calendar with in the exclusion time window for current pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Completed",
+   "Creation Date": "04/18/2018 03:03 PM CDT"
  },
  {
    "FormattedID": "DE8023",
@@ -256,7 +266,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 0,
-   "ScheduleState": "In-Progress",
+   "ScheduleState": "Completed",
    "Creation Date": "04/20/2018 10:31 AM CDT"
  },
  {
@@ -270,13 +280,23 @@
    "Creation Date": "04/23/2018 03:24 PM CDT"
  },
  {
+   "FormattedID": "DE8037",
+   "Name": "Unable to save calendar/clocking with in the exclusion time window for Exclusion Type -pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "Completed",
+   "Creation Date": "04/23/2018 04:09 PM CDT"
+ },
+ {
    "FormattedID": "DE8038",
    "Name": "Exclusion Times - Able to save calendar with in the exclusion time window",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
+   "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Defined",
+   "ScheduleState": "Completed",
    "Creation Date": "04/23/2018 04:21 PM CDT"
  },
  {
@@ -370,6 +390,16 @@
    "Creation Date": "04/25/2018 01:55 PM CDT"
  },
  {
+   "FormattedID": "DE8067",
+   "Name": "Adding a schedule note on CSO window throws 2 errors",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "04/25/2018 03:12 PM CDT"
+ },
+ {
    "FormattedID": "DE8071",
    "Name": "HttpException: File does not exist Alert",
    "Severity": "2 - Major Problem",
@@ -406,7 +436,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2.5,
    "ToDo": 0,
-   "ScheduleState": "In-Progress",
+   "ScheduleState": "Completed",
    "Creation Date": "04/30/2018 11:10 AM CDT"
  },
  {
@@ -414,8 +444,8 @@
    "Name": "No Acceptance Confirmation email been generated for Claimed broadcast",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 2,
+   "TaskEstimateTotal": 6,
+   "ToDo": 4,
    "ScheduleState": "In-Progress",
    "Creation Date": "04/30/2018 12:31 PM CDT"
  },
@@ -440,22 +470,12 @@
    "Creation Date": "05/02/2018 10:11 AM CDT"
  },
  {
-   "FormattedID": "DE8100",
-   "Name": "Compare staff window is missing some data",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 14,
-   "ToDo": 14,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "05/02/2018 10:59 AM CDT"
- },
- {
    "FormattedID": "DE8101",
    "Name": "Roster tab not displaying data in certain scenarios",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 14,
-   "ToDo": 10,
+   "ToDo": 2,
    "ScheduleState": "In-Progress",
    "Creation Date": "05/02/2018 02:43 PM CDT"
  },
@@ -478,5 +498,45 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "05/03/2018 11:24 AM CDT"
+ },
+ {
+   "FormattedID": "DE8120",
+   "Name": "Searching  a trade request based of OrgUnit or scheduleGroup throws an error",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/07/2018 03:11 PM CDT"
+ },
+ {
+   "FormattedID": "DE8121",
+   "Name": "System is throwing exception while Applying Core Staffing Template",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/07/2018 03:25 PM CDT"
+ },
+ {
+   "FormattedID": "DE8124",
+   "Name": "Supervisor LaborView not appearing in the Filter",
+   "Severity": "4 - Cosmetic",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/07/2018 04:25 PM CDT"
+ },
+ {
+   "FormattedID": "DE8125",
+   "Name": "\"Auto Forward Assignment\" throwing Exception",
+   "Severity": "",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/07/2018 05:01 PM CDT"
  }
 ]
