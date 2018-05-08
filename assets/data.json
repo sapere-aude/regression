@@ -32,14 +32,6 @@
    "Blocked": true
  },
  {
-   "FormattedID": "US20224",
-   "Name": "Reporting",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 18,
-   "TaskRemainingTotal": 18,
-   "Blocked": false
- },
- {
    "FormattedID": "US20225",
    "Name": "Email and Portal Notifications",
    "ScheduleState": "Defined",
@@ -152,16 +144,24 @@
    "Blocked": true
  },
  {
+   "FormattedID": "US20224",
+   "Name": "Reporting",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 18,
+   "TaskRemainingTotal": 18,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20226",
    "Name": "Auditing",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 4,
-   "TaskRemainingTotal": 4,
+   "TaskRemainingTotal": 1,
    "Blocked": false
  },
  {
    "FormattedID": "US20265",
-   "Name": "Supervisor Functionality - Actions Section",
+   "Name": "Supervisor Functionality - Actions",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 2,
@@ -173,22 +173,6 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 2,
-   "Blocked": false
- },
- {
-   "FormattedID": "US21113",
-   "Name": "F2809 - Regression Test Placeholder",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 7,
-   "TaskRemainingTotal": 7,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20267",
-   "Name": "Supervisor Functionality - Transaction List",
-   "ScheduleState": "Completed",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
@@ -244,6 +228,14 @@
    "Name": "Employee Functionality",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 38,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20267",
+   "Name": "Supervisor Functionality - Transaction List",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
    "Blocked": false
  }
