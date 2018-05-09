@@ -166,7 +166,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
+   "ScheduleState": "Defined",
    "Creation Date": "04/10/2018 01:02 PM CDT"
  },
  {
@@ -246,7 +246,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 0,
-   "ScheduleState": "Completed",
+   "ScheduleState": "Accepted",
    "Creation Date": "04/18/2018 02:54 PM CDT"
  },
  {
@@ -266,7 +266,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 0,
-   "ScheduleState": "Completed",
+   "ScheduleState": "Accepted",
    "Creation Date": "04/20/2018 10:31 AM CDT"
  },
  {
@@ -286,7 +286,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 1,
-   "ScheduleState": "Completed",
+   "ScheduleState": "In-Progress",
    "Creation Date": "04/23/2018 04:09 PM CDT"
  },
  {
@@ -296,7 +296,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Completed",
+   "ScheduleState": "In-Progress",
    "Creation Date": "04/23/2018 04:21 PM CDT"
  },
  {
@@ -390,6 +390,16 @@
    "Creation Date": "04/25/2018 01:55 PM CDT"
  },
  {
+   "FormattedID": "DE8066",
+   "Name": "2 Alerts generate when scheduletrade offer is approved.",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 11,
+   "ToDo": 0,
+   "ScheduleState": "Accepted",
+   "Creation Date": "04/25/2018 02:33 PM CDT"
+ },
+ {
    "FormattedID": "DE8067",
    "Name": "Adding a schedule note on CSO window throws 2 errors",
    "Severity": "2 - Major Problem",
@@ -436,7 +446,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2.5,
    "ToDo": 0,
-   "ScheduleState": "Completed",
+   "ScheduleState": "Accepted",
    "Creation Date": "04/30/2018 11:10 AM CDT"
  },
  {
@@ -470,6 +480,16 @@
    "Creation Date": "05/02/2018 10:11 AM CDT"
  },
  {
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "05/02/2018 10:59 AM CDT"
+ },
+ {
    "FormattedID": "DE8101",
    "Name": "Roster tab not displaying data in certain scenarios",
    "Severity": "1 - Crash/Data Loss",
@@ -496,7 +516,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
+   "ScheduleState": "Accepted",
    "Creation Date": "05/03/2018 11:24 AM CDT"
  },
  {
@@ -534,9 +554,49 @@
    "Name": "\"Auto Forward Assignment\" throwing Exception",
    "Severity": "",
    "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "05/07/2018 05:01 PM CDT"
+ },
+ {
+   "FormattedID": "DE8126",
+   "Name": "Staff Scheduling reports throw FormatException",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog",
-   "Creation Date": "05/07/2018 05:01 PM CDT"
+   "Creation Date": "05/08/2018 10:15 AM CDT"
+ },
+ {
+   "FormattedID": "DE8132",
+   "Name": "InvalidOperationException on My Schedule Report",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/08/2018 01:56 PM CDT"
+ },
+ {
+   "FormattedID": "DE8135",
+   "Name": "Today's Daily Roster by Schedule Group (Letter) Report Fails to load",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/08/2018 02:14 PM CDT"
+ },
+ {
+   "FormattedID": "DE8136",
+   "Name": "Parameter control is not accepting input on Authorization Roles Assigned to a Policy Report",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/08/2018 02:41 PM CDT"
  }
 ]
