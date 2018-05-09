@@ -480,16 +480,6 @@
    "Creation Date": "05/02/2018 10:11 AM CDT"
  },
  {
-   "FormattedID": "DE8100",
-   "Name": "Compare staff window is missing some data",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 14,
-   "ToDo": 14,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "05/02/2018 10:59 AM CDT"
- },
- {
    "FormattedID": "DE8101",
    "Name": "Roster tab not displaying data in certain scenarios",
    "Severity": "1 - Crash/Data Loss",
@@ -548,17 +538,7 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "05/07/2018 04:25 PM CDT"
- },
- {
-   "FormattedID": "DE8125",
-   "Name": "\"Auto Forward Assignment\" throwing Exception",
-   "Severity": "",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 2,
-   "ToDo": 2,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "05/07/2018 05:01 PM CDT"
- },
+ }
  {
    "FormattedID": "DE8126",
    "Name": "Staff Scheduling reports throw FormatException",
