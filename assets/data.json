@@ -32,14 +32,6 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20227",
-   "Name": "Pay Period Close (Manual and Automated)",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 16,
-   "TaskRemainingTotal": 16,
-   "Blocked": false
- },
- {
    "FormattedID": "US20228",
    "Name": "External (Interfaces, Downloads, Services)",
    "ScheduleState": "Defined",
@@ -133,7 +125,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 18,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20226",
@@ -141,6 +133,14 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 1,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20227",
+   "Name": "Pay Period Close (Manual and Automated)",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 16,
+   "TaskRemainingTotal": 16,
    "Blocked": false
  },
  {
@@ -157,6 +157,14 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 2,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US21395",
+   "Name": "Convert Report Compare Tool",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 28,
+   "TaskRemainingTotal": 28,
    "Blocked": false
  },
  {
@@ -236,14 +244,6 @@
    "Name": "Supervisor Functionality - Transaction List",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 0,
-   "Blocked": false
- },
- {
-   "FormattedID": "US21113",
-   "Name": "F2809 - Regression Test Placeholder",
-   "ScheduleState": "Accepted",
-   "TaskEstimateTotal": 7,
    "TaskRemainingTotal": 0,
    "Blocked": false
  }
