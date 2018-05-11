@@ -1,13 +1,30 @@
 [
  {
+   "FormattedID": "DE7851",
+   "Name": "Admin/Supervisor has to perform Delete Request twice to get the transaction record deleted.",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7852",
+   "Name": "Cancel Note Button not  display in Chrome Browser",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
    "FormattedID": "DE7854",
    "Name": "Delete Adjustment request throws  unauthorized operation error",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "03/29/2018 03:10 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7857",
@@ -16,8 +33,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "03/30/2018 10:27 AM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7859",
+   "Name": "Activity Code lookup on Broadcast window not returning any data",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7860",
@@ -26,8 +51,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "03/30/2018 11:29 AM CDT"
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE7865",
@@ -36,8 +60,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 9,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "03/31/2018 12:42 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7891",
@@ -46,8 +69,25 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/04/2018 11:51 AM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7892",
+   "Name": "Intermittently  - You are not authorized to view the request page Authorization warning page appears",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7897",
+   "Name": "(Datetime) Transaction - Request Differences  has incorrect offsets",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE7900",
@@ -56,8 +96,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 12,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/04/2018 04:27 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7906",
@@ -66,8 +105,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 14,
    "ToDo": 2,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/05/2018 11:10 AM CDT"
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE7907",
@@ -76,8 +114,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/05/2018 11:24 AM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE7909",
@@ -86,8 +123,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/05/2018 11:38 AM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7919",
+   "Name": "Transaction List - Multi Checkbox Selection not working",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE7925",
@@ -96,8 +141,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/09/2018 11:28 AM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE7936",
+   "Name": "Add Schedule on Active Roster or Assign on CSO not working",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
  },
  {
    "FormattedID": "DE7942",
@@ -106,8 +159,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 28,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/11/2018 12:16 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7943",
@@ -116,8 +168,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/11/2018 04:51 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7953",
@@ -126,8 +177,25 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/12/2018 04:18 PM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7954",
+   "Name": "Doing calc me now after adding Attendance transactions throws alerts",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE7955",
+   "Name": "Console page doesn't always properly re-route to the console",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE7956",
@@ -136,8 +204,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/13/2018 02:29 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7964",
@@ -146,8 +213,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/16/2018 01:33 PM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8006",
+   "Name": "Active Roster-Calendar transaction Mismatch and Productive columns not checked",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8007",
@@ -156,8 +231,25 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/18/2018 03:03 PM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8023",
+   "Name": "Needs missing in Active Roster-Can be seen in CSO",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 16,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8035",
+   "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8037",
@@ -166,8 +258,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/23/2018 04:09 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8038",
@@ -176,8 +267,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/23/2018 04:21 PM CDT"
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8045",
@@ -186,8 +276,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/24/2018 01:17 PM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8047",
+   "Name": "Transactions -  RequestHistory Tab Save Button is not aligned with page events",
+   "Severity": "4 - Cosmetic",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8048",
@@ -196,8 +294,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/24/2018 01:31 PM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8051",
@@ -206,8 +303,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/24/2018 01:47 PM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8053",
+   "Name": "Employee Sections- Addresses and Phones screens not shows valid message upon deleting the last record",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8055",
@@ -216,8 +321,61 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 11,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "04/24/2018 04:17 PM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8059",
+   "Name": "(Datetime)Report Instance table - WhenExpire column shows incorrect datetime offset",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8062",
+   "Name": "Exclusive User - Add search results throws '404- File or directory not found' server error",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8064",
+   "Name": "Unhanded Exception when Supervisor tries to approve a duplicate request",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8066",
+   "Name": "2 Alerts generate when scheduletrade offer is approved.",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 11,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8067",
+   "Name": "Adding a schedule note on CSO window throws 2 errors",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8071",
+   "Name": "HttpException: File does not exist Alert",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 2,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8085",
@@ -226,8 +384,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/27/2018 03:40 PM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8086",
@@ -236,8 +393,16 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "04/27/2018 03:50 PM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8090",
+   "Name": "Notes: Trying to add Notes to Calendar its not saving",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 2.5,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8091",
@@ -246,8 +411,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
    "ToDo": 4,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "04/30/2018 12:31 PM CDT"
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8097",
@@ -256,8 +420,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "05/01/2018 02:17 PM CDT"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8099",
@@ -266,8 +429,34 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "05/02/2018 10:11 AM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8101",
+   "Name": "Roster tab not displaying data in certain scenarios",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8103",
+   "Name": "Adding a  calendar from employee throws an error",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8106",
@@ -276,8 +465,43 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Accepted",
-   "Creation Date": "05/03/2018 11:24 AM CDT"
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8120",
+   "Name": "Searching  a trade request based of OrgUnit or scheduleGroup throws an error",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8121",
+   "Name": "System is throwing exception while Applying Core Staffing Template",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8124",
+   "Name": "Supervisor LaborView not appearing in the Filter",
+   "Severity": "4 - Cosmetic",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8125",
+   "Name": "\"Auto Forward Assignment\" throwing Exception",
+   "Severity": "",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8126",
@@ -286,8 +510,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "05/08/2018 10:15 AM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8132",
@@ -296,8 +519,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "05/08/2018 01:56 PM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8135",
@@ -306,8 +528,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "05/08/2018 02:14 PM CDT"
+   "ScheduleState": "Backlog"
  },
  {
    "FormattedID": "DE8136",
@@ -316,7 +537,15 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog",
-   "Creation Date": "05/08/2018 02:41 PM CDT"
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8146",
+   "Name": "Creating a Offer/Trade request doesnt show up as Vacancy on Monthly View",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  }
 ]
