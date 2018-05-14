@@ -547,5 +547,41 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8157",
+   "Name": "Schedule reports throwing Unauthorized exception",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8158",
+   "Name": "Retro Job -  Performing the Complete task, the Retro Job process is not completed  and  not shows correct status",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8160",
+   "Name": "Manual Close Pay Process - Step 10  Archive Time Card Reports  shows in progress and throws  storage volume alerts",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8168",
+   "Name": "SmtpException: Failure sending mail",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  }
 ]
