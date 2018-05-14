@@ -24,14 +24,6 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20225",
-   "Name": "Email and Portal Notifications",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 4,
-   "TaskRemainingTotal": 4,
-   "Blocked": false
- },
- {
    "FormattedID": "US20228",
    "Name": "External (Interfaces, Downloads, Services)",
    "ScheduleState": "Defined",
@@ -84,7 +76,7 @@
    "Name": "Self Scheduling",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 20,
-   "TaskRemainingTotal": 4,
+   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
@@ -101,7 +93,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 10,
    "TaskRemainingTotal": 10,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20222",
@@ -128,6 +120,14 @@
    "Blocked": true
  },
  {
+   "FormattedID": "US20225",
+   "Name": "Email and Portal Notifications",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 4,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20226",
    "Name": "Auditing",
    "ScheduleState": "In-Progress",
@@ -141,7 +141,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 16,
    "TaskRemainingTotal": 16,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20265",
