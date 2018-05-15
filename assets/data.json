@@ -64,14 +64,6 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20210",
-   "Name": "API Notification Engine and History (Open Shifts)",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 6,
-   "TaskRemainingTotal": 5,
-   "Blocked": true
- },
- {
    "FormattedID": "US20212",
    "Name": "Self Scheduling",
    "ScheduleState": "In-Progress",
@@ -123,8 +115,8 @@
    "FormattedID": "US20225",
    "Name": "Email and Portal Notifications",
    "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 4,
-   "TaskRemainingTotal": 4,
+   "TaskEstimateTotal": 9,
+   "TaskRemainingTotal": 7,
    "Blocked": false
  },
  {
@@ -197,6 +189,14 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20210",
+   "Name": "API Notification Engine and History (Open Shifts)",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 5,
    "Blocked": false
  },
  {
