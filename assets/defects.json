@@ -508,27 +508,27 @@
    "Name": "Staff Scheduling reports throw FormatException",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8132",
    "Name": "InvalidOperationException on My Schedule Report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8135",
    "Name": "Today's Daily Roster by Schedule Group (Letter) Report Fails to load",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8136",
@@ -579,6 +579,24 @@
    "FormattedID": "DE8168",
    "Name": "SmtpException: Failure sending mail",
    "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8172",
+   "Name": "Retro Adjustment -  Saving Adjustment or Clicking on Retro Tab while adding Adjustment throws Null Reference Exception",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8176",
+   "Name": "Next Execution column remains BLANK on schedule reports",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
