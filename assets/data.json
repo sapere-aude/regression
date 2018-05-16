@@ -88,14 +88,6 @@
    "Blocked": true
  },
  {
-   "FormattedID": "US20222",
-   "Name": "Supervisor Functionality - General",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 2,
-   "Blocked": false
- },
- {
    "FormattedID": "US20223",
    "Name": "Exclusion Times",
    "ScheduleState": "In-Progress",
@@ -131,17 +123,9 @@
    "FormattedID": "US20227",
    "Name": "Pay Period Close (Manual and Automated)",
    "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 16,
-   "TaskRemainingTotal": 16,
+   "TaskEstimateTotal": 19,
+   "TaskRemainingTotal": 19,
    "Blocked": true
- },
- {
-   "FormattedID": "US20265",
-   "Name": "Supervisor Functionality - Actions",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 2,
-   "Blocked": false
  },
  {
    "FormattedID": "US20266",
@@ -155,8 +139,24 @@
    "FormattedID": "US21395",
    "Name": "Convert Report Compare Tool",
    "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 28,
-   "TaskRemainingTotal": 28,
+   "TaskEstimateTotal": 40,
+   "TaskRemainingTotal": 14,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20222",
+   "Name": "Supervisor Functionality - General",
+   "ScheduleState": "Completed",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20265",
+   "Name": "Supervisor Functionality - Actions",
+   "ScheduleState": "Completed",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
@@ -196,7 +196,7 @@
    "Name": "API Notification Engine and History (Open Shifts)",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 6,
-   "TaskRemainingTotal": 5,
+   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
