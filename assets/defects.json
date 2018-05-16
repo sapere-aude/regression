@@ -360,6 +360,15 @@
    "ScheduleState": "Accepted"
  },
  {
+   "FormattedID": "DE8067",
+   "Name": "Adding a schedule note on CSO window throws 2 errors",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
+ },
+ {
    "FormattedID": "DE8071",
    "Name": "HttpException: File does not exist Alert",
    "Severity": "2 - Major Problem",
@@ -396,6 +405,15 @@
    "ScheduleState": "Accepted"
  },
  {
+   "FormattedID": "DE8091",
+   "Name": "No Acceptance Confirmation email been generated for Claimed broadcast",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 6,
+   "ToDo": 4,
+   "ScheduleState": "In-Progress"
+ },
+ {
    "FormattedID": "DE8097",
    "Name": "MessageTimeoutException is thrown for SchedulePeriodValidationForAll process",
    "Severity": "2 - Major Problem",
@@ -412,6 +430,24 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "",
+   "Name": "",
+   "Severity": "",
+   "Tags": "",
+   "TaskEstimateTotal": null,
+   "ToDo": null,
+   "ScheduleState": ""
+ },
+ {
+   "FormattedID": "",
+   "Name": "",
+   "Severity": "",
+   "Tags": "",
+   "TaskEstimateTotal": null,
+   "ToDo": null,
+   "ScheduleState": ""
  },
  {
    "FormattedID": "DE8103",
@@ -517,9 +553,9 @@
    "Name": "Schedule reports throwing Unauthorized exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 16,
+   "ToDo": 16,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8158",
