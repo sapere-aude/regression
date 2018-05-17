@@ -16,14 +16,6 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20219",
-   "Name": "Rules Processing",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 6,
-   "TaskRemainingTotal": 6,
-   "Blocked": false
- },
- {
    "FormattedID": "US20228",
    "Name": "External (Interfaces, Downloads, Services)",
    "ScheduleState": "Defined",
@@ -80,6 +72,14 @@
    "Blocked": false
  },
  {
+   "FormattedID": "US20219",
+   "Name": "Rules Processing",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 6,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20220",
    "Name": "Retro Calcs",
    "ScheduleState": "In-Progress",
@@ -100,7 +100,7 @@
    "Name": "Reporting",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 18,
-   "TaskRemainingTotal": 10,
+   "TaskRemainingTotal": 4,
    "Blocked": true
  },
  {
@@ -109,14 +109,6 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 9,
    "TaskRemainingTotal": 7,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20226",
-   "Name": "Auditing",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 4,
-   "TaskRemainingTotal": 1,
    "Blocked": false
  },
  {
@@ -140,7 +132,7 @@
    "Name": "Convert Report Compare Tool",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 40,
-   "TaskRemainingTotal": 14,
+   "TaskRemainingTotal": 10,
    "Blocked": false
  },
  {
@@ -236,6 +228,14 @@
    "Name": "Employee Functionality",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 38,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20226",
+   "Name": "Auditing",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
