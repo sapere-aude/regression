@@ -364,9 +364,9 @@
    "Name": "Adding a schedule note on CSO window throws 2 errors",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 6,
+   "TaskEstimateTotal": 6.5,
    "ToDo": 0,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Completed"
  },
  {
    "FormattedID": "DE8071",
@@ -432,22 +432,22 @@
    "ScheduleState": "Backlog"
  },
  {
-   "FormattedID": "",
-   "Name": "",
-   "Severity": "",
-   "Tags": "",
-   "TaskEstimateTotal": null,
-   "ToDo": null,
-   "ScheduleState": ""
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress"
  },
  {
-   "FormattedID": "",
-   "Name": "",
-   "Severity": "",
-   "Tags": "",
-   "TaskEstimateTotal": null,
-   "ToDo": null,
-   "ScheduleState": ""
+   "FormattedID": "DE8101",
+   "Name": "Roster tab not displaying data in certain scenarios",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8103",
@@ -519,7 +519,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 1,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8135",
@@ -528,16 +528,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 1,
-   "ScheduleState": "In-Progress"
- },
- {
-   "FormattedID": "DE8136",
-   "Name": "Parameter control is not accepting input on Authorization Roles Assigned to a Policy Report",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8146",
@@ -597,6 +588,24 @@
    "FormattedID": "DE8176",
    "Name": "Next Execution column remains BLANK on schedule reports",
    "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8184",
+   "Name": "SqlException when two schedule tasks been added on same report",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8189",
+   "Name": "Delivery Format as LINK is not working",
+   "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
