@@ -144,15 +144,6 @@
    "ScheduleState": "Backlog"
  },
  {
-   "FormattedID": "DE7936",
-   "Name": "Add Schedule on Active Roster or Assign on CSO not working",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Defined"
- },
- {
    "FormattedID": "DE7942",
    "Name": "Opening a Broadcast-ed shift throws an error",
    "Severity": "1 - Crash/Data Loss",
@@ -271,7 +262,7 @@
  },
  {
    "FormattedID": "DE8045",
-   "Name": "Extra Shift icon not displayed on CSO screen.",
+   "Name": "Extra Shift icon not displayed on cs screen.",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
@@ -492,7 +483,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 1,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Completed"
  },
  {
    "FormattedID": "DE8132",
@@ -588,6 +579,33 @@
    "FormattedID": "DE8189",
    "Name": "Delivery Format as LINK is not working",
    "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8199",
+   "Name": "Historical - 4 Week Schedule (Legal) is executing the wrong report",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8205",
+   "Name": "Unhandled Exception on Employee Laborview for the the filter \"Lunch Responses\"",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8206",
+   "Name": "Hand icon/ indication that user can click on the graph on the Home Page when it is not linked",
+   "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
