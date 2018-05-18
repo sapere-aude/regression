@@ -76,7 +76,7 @@
    "Name": "Rules Processing",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 6,
-   "TaskRemainingTotal": 6,
+   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
@@ -120,14 +120,6 @@
    "Blocked": true
  },
  {
-   "FormattedID": "US20266",
-   "Name": "Supervisor Functionality - Transaction Grid",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 2,
-   "Blocked": false
- },
- {
    "FormattedID": "US21395",
    "Name": "Convert Report Compare Tool",
    "ScheduleState": "In-Progress",
@@ -146,6 +138,14 @@
  {
    "FormattedID": "US20265",
    "Name": "Supervisor Functionality - Actions",
+   "ScheduleState": "Completed",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20266",
+   "Name": "Supervisor Functionality - Transaction Grid",
    "ScheduleState": "Completed",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
