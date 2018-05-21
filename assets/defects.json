@@ -144,6 +144,15 @@
    "ScheduleState": "Backlog"
  },
  {
+   "FormattedID": "DE7936",
+   "Name": "Add Schedule on Active Roster or Assign on CSO not working",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
+ },
+ {
    "FormattedID": "DE7942",
    "Name": "Opening a Broadcast-ed shift throws an error",
    "Severity": "1 - Crash/Data Loss",
@@ -262,7 +271,7 @@
  },
  {
    "FormattedID": "DE8045",
-   "Name": "Extra Shift icon not displayed on cs screen.",
+   "Name": "Extra Shift icon not displayed on CSO screen.",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
@@ -474,7 +483,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
    "ToDo": 2,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Completed"
  },
  {
    "FormattedID": "DE8126",
@@ -518,7 +527,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
-   "ToDo": 16,
+   "ToDo": 12,
    "ScheduleState": "In-Progress"
  },
  {
