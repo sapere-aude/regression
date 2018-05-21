@@ -108,7 +108,7 @@
    "Name": "Email and Portal Notifications",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 9,
-   "TaskRemainingTotal": 7,
+   "TaskRemainingTotal": 5,
    "Blocked": false
  },
  {
@@ -128,24 +128,8 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20222",
-   "Name": "Supervisor Functionality - General",
-   "ScheduleState": "Completed",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 0,
-   "Blocked": false
- },
- {
    "FormattedID": "US20265",
    "Name": "Supervisor Functionality - Actions",
-   "ScheduleState": "Completed",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 0,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20266",
-   "Name": "Supervisor Functionality - Transaction Grid",
    "ScheduleState": "Completed",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
@@ -232,10 +216,26 @@
    "Blocked": false
  },
  {
+   "FormattedID": "US20222",
+   "Name": "Supervisor Functionality - General",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20226",
    "Name": "Auditing",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20266",
+   "Name": "Supervisor Functionality - Transaction Grid",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
