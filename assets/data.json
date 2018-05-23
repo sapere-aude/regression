@@ -21,7 +21,7 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 10,
    "TaskRemainingTotal": 10,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20229",
@@ -29,7 +29,7 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 8,
    "TaskRemainingTotal": 8,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20242",
@@ -93,15 +93,15 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 3,
-   "Blocked": true
+   "Blocked": false
  },
  {
    "FormattedID": "US20224",
    "Name": "Reporting",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 18,
-   "TaskRemainingTotal": 4,
-   "Blocked": true
+   "TaskRemainingTotal": 2,
+   "Blocked": false
  },
  {
    "FormattedID": "US20225",
@@ -124,15 +124,7 @@
    "Name": "Convert Report Compare Tool",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 40,
-   "TaskRemainingTotal": 10,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20265",
-   "Name": "Supervisor Functionality - Actions",
-   "ScheduleState": "Completed",
-   "TaskEstimateTotal": 22,
-   "TaskRemainingTotal": 0,
+   "TaskRemainingTotal": 6,
    "Blocked": false
  },
  {
@@ -228,6 +220,14 @@
    "Name": "Auditing",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20265",
+   "Name": "Supervisor Functionality - Actions",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
