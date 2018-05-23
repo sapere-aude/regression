@@ -51,7 +51,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
    "ToDo": 0,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7865",
@@ -104,8 +104,8 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 14,
-   "ToDo": 2,
-   "ScheduleState": "In-Progress"
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7907",
@@ -366,7 +366,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6.5,
    "ToDo": 0,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8071",
@@ -483,7 +483,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
    "ToDo": 2,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8126",
@@ -492,7 +492,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
    "ToDo": 1,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8132",
@@ -526,18 +526,18 @@
    "Name": "Schedule reports throwing Unauthorized exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 16,
-   "ToDo": 12,
-   "ScheduleState": "In-Progress"
+   "TaskEstimateTotal": 8,
+   "ToDo": 8,
+   "ScheduleState": "Defined"
  },
  {
    "FormattedID": "DE8158",
    "Name": "Retro Job -  Performing the Complete task, the Retro Job process is not completed  and  not shows correct status",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 16,
+   "ToDo": 16,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8160",
@@ -615,6 +615,33 @@
    "FormattedID": "DE8206",
    "Name": "Hand icon/ indication that user can click on the graph on the Home Page when it is not linked",
    "Severity": "4 - Cosmetic",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8211",
+   "Name": "Intermittent Redis Timeout Exception : \"Timeout performing SCAN\"",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8215",
+   "Name": "Self Schedule days are inconsistent  when \"Begin Day of Week\" is not aligned to \"Resume Date\"",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8220",
+   "Name": "Controller Graphs are not showing appropriate Legend",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
