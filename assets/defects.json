@@ -265,8 +265,8 @@
    "Name": "Exclusion Times - Able to save calendar with in the exclusion time window",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 4,
-   "ToDo": 0,
+   "TaskEstimateTotal": 8,
+   "ToDo": 3,
    "ScheduleState": "In-Progress"
  },
  {
