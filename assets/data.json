@@ -1,19 +1,11 @@
 [
  {
-   "FormattedID": "US20217",
-   "Name": "Minimum Scheduling (Commitments)",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 12,
-   "Blocked": false
- },
- {
    "FormattedID": "US20218",
    "Name": "Staffing Recalculation Process (Models)",
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 14,
    "TaskRemainingTotal": 14,
-   "Blocked": false
+   "Blocked": true
  },
  {
    "FormattedID": "US20228",
@@ -56,19 +48,19 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20212",
-   "Name": "Self Scheduling",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 20,
-   "TaskRemainingTotal": 2,
-   "Blocked": false
- },
- {
    "FormattedID": "US20216",
    "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
    "TaskRemainingTotal": 8,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20217",
+   "Name": "Minimum Scheduling (Commitments)",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 12,
+   "TaskRemainingTotal": 12,
    "Blocked": false
  },
  {
@@ -172,6 +164,14 @@
    "Name": "Request to Work",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20212",
+   "Name": "Self Scheduling",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 20,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
