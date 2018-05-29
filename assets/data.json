@@ -52,7 +52,7 @@
    "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 8,
+   "TaskRemainingTotal": 4,
    "Blocked": false
  },
  {
@@ -61,14 +61,6 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
    "TaskRemainingTotal": 12,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20219",
-   "Name": "Rules Processing",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 6,
-   "TaskRemainingTotal": 2,
    "Blocked": false
  },
  {
@@ -88,14 +80,6 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20224",
-   "Name": "Reporting",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 18,
-   "TaskRemainingTotal": 2,
-   "Blocked": false
- },
- {
    "FormattedID": "US20225",
    "Name": "Email and Portal Notifications",
    "ScheduleState": "In-Progress",
@@ -108,7 +92,7 @@
    "Name": "Pay Period Close (Manual and Automated)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 19,
-   "TaskRemainingTotal": 19,
+   "TaskRemainingTotal": 18,
    "Blocked": true
  },
  {
@@ -200,6 +184,14 @@
    "Blocked": false
  },
  {
+   "FormattedID": "US20219",
+   "Name": "Rules Processing",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 6,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US20221",
    "Name": "Employee Functionality",
    "ScheduleState": "Accepted",
@@ -212,6 +204,14 @@
    "Name": "Supervisor Functionality - General",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20224",
+   "Name": "Reporting",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
