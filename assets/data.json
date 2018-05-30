@@ -24,14 +24,6 @@
    "Blocked": true
  },
  {
-   "FormattedID": "US20242",
-   "Name": "Report Compares",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 16,
-   "TaskRemainingTotal": 16,
-   "Blocked": true
- },
- {
    "FormattedID": "US20243",
    "Name": "Calc Compares",
    "ScheduleState": "Defined",
@@ -48,19 +40,11 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20216",
-   "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 4,
-   "Blocked": false
- },
- {
    "FormattedID": "US20217",
    "Name": "Minimum Scheduling (Commitments)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 12,
+   "TaskRemainingTotal": 8,
    "Blocked": false
  },
  {
@@ -84,7 +68,7 @@
    "Name": "Email and Portal Notifications",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 9,
-   "TaskRemainingTotal": 5,
+   "TaskRemainingTotal": 1,
    "Blocked": false
  },
  {
@@ -96,11 +80,27 @@
    "Blocked": true
  },
  {
+   "FormattedID": "US20242",
+   "Name": "Report Compares",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 36,
+   "TaskRemainingTotal": 32,
+   "Blocked": false
+ },
+ {
    "FormattedID": "US21395",
    "Name": "Convert Report Compare Tool",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 40,
-   "TaskRemainingTotal": 6,
+   "TaskRemainingTotal": 4,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20216",
+   "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
+   "ScheduleState": "Completed",
+   "TaskEstimateTotal": 12,
+   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
