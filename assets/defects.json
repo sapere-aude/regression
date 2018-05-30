@@ -5,8 +5,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7852",
@@ -14,8 +13,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7854",
@@ -23,8 +21,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7857",
@@ -32,8 +29,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7859",
@@ -41,8 +37,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7860",
@@ -50,8 +45,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7865",
@@ -59,8 +53,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 9,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7891",
@@ -68,8 +61,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7892",
@@ -77,8 +69,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7897",
@@ -86,8 +77,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7900",
@@ -95,8 +85,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 12,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7906",
@@ -104,8 +93,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 14,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7907",
@@ -113,8 +101,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7909",
@@ -122,8 +109,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7919",
@@ -131,8 +117,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7925",
@@ -140,8 +125,7 @@
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7936",
@@ -149,8 +133,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Defined"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7942",
@@ -158,8 +141,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 28,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7943",
@@ -167,8 +149,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7953",
@@ -176,8 +157,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 4,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7954",
@@ -185,8 +165,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7955",
@@ -194,8 +173,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7956",
@@ -203,8 +181,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE7964",
@@ -212,8 +189,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8006",
@@ -221,8 +197,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8007",
@@ -230,8 +205,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8023",
@@ -239,8 +213,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8035",
@@ -248,8 +221,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8037",
@@ -257,8 +229,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8038",
@@ -266,8 +237,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
-   "ToDo": 3,
-   "ScheduleState": "In-Progress"
+   "ToDo": 3
  },
  {
    "FormattedID": "DE8045",
@@ -275,8 +245,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8047",
@@ -284,8 +253,7 @@
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8048",
@@ -293,8 +261,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8051",
@@ -302,8 +269,7 @@
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8053",
@@ -311,8 +277,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8055",
@@ -320,8 +285,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 11,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8059",
@@ -329,8 +293,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8062",
@@ -338,8 +301,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8064",
@@ -347,8 +309,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8066",
@@ -356,8 +317,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 11,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8067",
@@ -365,8 +325,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6.5,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8071",
@@ -374,8 +333,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
-   "ToDo": 1,
-   "ScheduleState": "In-Progress"
+   "ToDo": 1
  },
  {
    "FormattedID": "DE8085",
@@ -383,8 +341,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8086",
@@ -392,8 +349,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8090",
@@ -401,8 +357,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2.5,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8091",
@@ -410,8 +365,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 6,
-   "ToDo": 4,
-   "ScheduleState": "In-Progress"
+   "ToDo": 4
  },
  {
    "FormattedID": "DE8097",
@@ -419,8 +373,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8099",
@@ -428,8 +381,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8103",
@@ -437,8 +389,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8106",
@@ -446,8 +397,7 @@
    "Severity": "",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8120",
@@ -455,8 +405,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8121",
@@ -464,8 +413,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8124",
@@ -473,8 +421,7 @@
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8125",
@@ -482,8 +429,7 @@
    "Severity": "",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
-   "ToDo": 2,
-   "ScheduleState": "Accepted"
+   "ToDo": 2
  },
  {
    "FormattedID": "DE8126",
@@ -491,8 +437,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
-   "ToDo": 1,
-   "ScheduleState": "Accepted"
+   "ToDo": 1
  },
  {
    "FormattedID": "DE8132",
@@ -500,8 +445,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
-   "ToDo": 1,
-   "ScheduleState": "Accepted"
+   "ToDo": 1
  },
  {
    "FormattedID": "DE8135",
@@ -509,8 +453,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 3,
-   "ToDo": 1,
-   "ScheduleState": "Accepted"
+   "ToDo": 1
  },
  {
    "FormattedID": "DE8146",
@@ -518,8 +461,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8157",
@@ -527,8 +469,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 8,
-   "ToDo": 8,
-   "ScheduleState": "Defined"
+   "ToDo": 8
  },
  {
    "FormattedID": "DE8158",
@@ -536,17 +477,15 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
-   "ToDo": 16,
-   "ScheduleState": "In-Progress"
+   "ToDo": 16
  },
  {
    "FormattedID": "DE8160",
    "Name": "Manual Close Pay Process - Step 10  Archive Time Card Reports  shows in progress and throws  storage volume alerts",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 18,
+   "ToDo": 10
  },
  {
    "FormattedID": "DE8168",
@@ -554,8 +493,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8172",
@@ -563,8 +501,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8176",
@@ -572,8 +509,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8184",
@@ -581,8 +517,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8189",
@@ -590,8 +525,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8199",
@@ -599,8 +533,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8205",
@@ -608,8 +541,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8206",
@@ -617,8 +549,7 @@
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8211",
@@ -626,8 +557,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8215",
@@ -635,8 +565,7 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
  },
  {
    "FormattedID": "DE8220",
@@ -644,7 +573,14 @@
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ToDo": 0
+ },
+ {
+   "FormattedID": "DE8264",
+   "Name": "Silverlight version error when loading Silverlight screens",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0
  }
 ]
