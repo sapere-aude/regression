@@ -5,7 +5,8 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 14,
    "TaskRemainingTotal": 14,
-   "Blocked": true
+   "Blocked": true,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20228",
@@ -13,15 +14,8 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 10,
    "TaskRemainingTotal": 10,
-   "Blocked": true
- },
- {
-   "FormattedID": "US20229",
-   "Name": "Application Tools",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 8,
-   "TaskRemainingTotal": 8,
-   "Blocked": true
+   "Blocked": true,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20243",
@@ -29,7 +23,8 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 24,
    "TaskRemainingTotal": 24,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20329",
@@ -37,15 +32,17 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 0,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20217",
    "Name": "Minimum Scheduling (Commitments)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 8,
-   "Blocked": false
+   "TaskRemainingTotal": 6,
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20220",
@@ -53,7 +50,8 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 10,
    "TaskRemainingTotal": 10,
-   "Blocked": true
+   "Blocked": true,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20223",
@@ -61,15 +59,8 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 3,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20225",
-   "Name": "Email and Portal Notifications",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 9,
-   "TaskRemainingTotal": 1,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20227",
@@ -77,7 +68,17 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 19,
    "TaskRemainingTotal": 18,
-   "Blocked": true
+   "Blocked": true,
+   "Iteration": "2018 PI 2 Sprint 5"
+ },
+ {
+   "FormattedID": "US20229",
+   "Name": "Application Tools",
+   "ScheduleState": "In-Progress",
+   "TaskEstimateTotal": 8,
+   "TaskRemainingTotal": 8,
+   "Blocked": false,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20242",
@@ -85,15 +86,8 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 36,
    "TaskRemainingTotal": 32,
-   "Blocked": false
- },
- {
-   "FormattedID": "US21395",
-   "Name": "Convert Report Compare Tool",
-   "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 40,
-   "TaskRemainingTotal": 4,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20216",
@@ -101,7 +95,8 @@
    "ScheduleState": "Completed",
    "TaskEstimateTotal": 12,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20206",
@@ -109,7 +104,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 1"
  },
  {
    "FormattedID": "US20207",
@@ -117,7 +113,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 24,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 2"
  },
  {
    "FormattedID": "US20208",
@@ -125,7 +122,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 1"
  },
  {
    "FormattedID": "US20209",
@@ -133,7 +131,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 2"
  },
  {
    "FormattedID": "US20210",
@@ -141,7 +140,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 6,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20211",
@@ -149,7 +149,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 6,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 1"
  },
  {
    "FormattedID": "US20212",
@@ -157,7 +158,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 20,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20213",
@@ -165,7 +167,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 2,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 1"
  },
  {
    "FormattedID": "US20214",
@@ -173,7 +176,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 0,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 3"
  },
  {
    "FormattedID": "US20215",
@@ -181,7 +185,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 34,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": ""
  },
  {
    "FormattedID": "US20219",
@@ -189,7 +194,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 6,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20221",
@@ -197,7 +203,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 38,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 3"
  },
  {
    "FormattedID": "US20222",
@@ -205,7 +212,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20224",
@@ -213,7 +221,17 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 18,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
+ },
+ {
+   "FormattedID": "US20225",
+   "Name": "Email and Portal Notifications",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 9,
+   "TaskRemainingTotal": 0,
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20226",
@@ -221,7 +239,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 4,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20265",
@@ -229,7 +248,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20266",
@@ -237,7 +257,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 4"
  },
  {
    "FormattedID": "US20267",
@@ -245,7 +266,8 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 22,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 3"
  },
  {
    "FormattedID": "US21113",
@@ -253,6 +275,16 @@
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 7,
    "TaskRemainingTotal": 0,
-   "Blocked": false
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 3"
+ },
+ {
+   "FormattedID": "US21395",
+   "Name": "Convert Report Compare Tool",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 40,
+   "TaskRemainingTotal": 0,
+   "Blocked": false,
+   "Iteration": "2018 PI 2 Sprint 5"
  }
 ]
