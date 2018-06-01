@@ -250,6 +250,26 @@
    "Creation Date": "04/18/2018 02:54 PM CDT"
  },
  {
+   "FormattedID": "DE8007",
+   "Name": "(Datetime) - Unable to save calendar with in the exclusion time window for current pay period",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted",
+   "Creation Date": "04/18/2018 03:03 PM CDT"
+ },
+ {
+   "FormattedID": "DE8023",
+   "Name": "Needs missing in Active Roster-Can be seen in CSO",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 16,
+   "ToDo": 0,
+   "ScheduleState": "Accepted",
+   "Creation Date": "04/20/2018 10:31 AM CDT"
+ },
+ {
    "FormattedID": "DE8035",
    "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
    "Severity": "3 - Minor Problem",
@@ -460,26 +480,6 @@
    "Creation Date": "05/02/2018 10:11 AM CDT"
  },
  {
-   "FormattedID": "DE8100",
-   "Name": "Compare staff window is missing some data",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 14,
-   "ToDo": 14,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "05/02/2018 10:59 AM CDT"
- },
- {
-   "FormattedID": "DE8101",
-   "Name": "Roster tab not displaying data in certain scenarios",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 12,
-   "ToDo": 0,
-   "ScheduleState": "In-Progress",
-   "Creation Date": "05/02/2018 02:43 PM CDT"
- },
- {
    "FormattedID": "DE8103",
    "Name": "Adding a  calendar from employee throws an error",
    "Severity": "2 - Major Problem",
@@ -572,7 +572,7 @@
  {
    "FormattedID": "DE8146",
    "Name": "Creating a Offer/Trade request doesnt show up as Vacancy on Monthly View",
-   "Severity": "1 - Crash/Data Loss",
+   "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -644,9 +644,9 @@
    "Name": "SqlException when two schedule tasks been added on same report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog",
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress",
    "Creation Date": "05/16/2018 02:02 PM CDT"
  },
  {
@@ -738,5 +738,15 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "05/30/2018 03:08 PM CDT"
+ },
+ {
+   "FormattedID": "DE8280",
+   "Name": "Running a 'SchedulePeriodValidationForAll' process throws an error on agent server",
+   "Severity": "3 - Minor Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/31/2018 10:27 AM CDT"
  }
 ]
