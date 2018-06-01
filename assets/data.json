@@ -68,7 +68,7 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 19,
    "TaskRemainingTotal": 18,
-   "Blocked": true,
+   "Blocked": false,
    "Iteration": "2018 PI 2 Sprint 5"
  },
  {
@@ -78,7 +78,7 @@
    "TaskEstimateTotal": 8,
    "TaskRemainingTotal": 8,
    "Blocked": false,
-   "Iteration": ""
+   "Iteration": "2018 PI 2 Sprint 5"
  },
  {
    "FormattedID": "US20242",
