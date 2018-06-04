@@ -294,8 +294,8 @@
    "Name": "Exclusion Times - Able to save calendar with in the exclusion time window",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 8,
-   "ToDo": 3,
+   "TaskEstimateTotal": 16,
+   "ToDo": 8,
    "ScheduleState": "In-Progress",
    "Creation Date": "04/23/2018 04:21 PM CDT"
  },
@@ -595,7 +595,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
-   "ToDo": 5,
+   "ToDo": 2,
    "ScheduleState": "In-Progress",
    "Creation Date": "05/11/2018 12:07 PM CDT"
  },
@@ -624,9 +624,9 @@
    "Name": "Retro Adjustment -  Saving Adjustment or Clicking on Retro Tab while adding Adjustment throws Null Reference Exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog",
+   "TaskEstimateTotal": 20,
+   "ToDo": 20,
+   "ScheduleState": "In-Progress",
    "Creation Date": "05/14/2018 10:09 AM CDT"
  },
  {
@@ -748,5 +748,25 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "05/31/2018 10:27 AM CDT"
+ },
+ {
+   "FormattedID": "DE8290",
+   "Name": "Auto Pay Close Throwing Alert & Not Working",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 12,
+   "ToDo": 12,
+   "ScheduleState": "In-Progress",
+   "Creation Date": "06/01/2018 08:35 AM CDT"
+ },
+ {
+   "FormattedID": "DE8291",
+   "Name": "Silver Light Screens-  Opening CSO, Active Roster, Staffing Plan, Core Staffing Plan  screens , user is logged out from webportal",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "06/01/2018 10:31 AM CDT"
  }
 ]
