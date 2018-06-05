@@ -40,7 +40,7 @@
    "Name": "Minimum Scheduling (Commitments)",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 6,
+   "TaskRemainingTotal": 5,
    "Blocked": false,
    "Iteration": "2018 PI 2 Sprint 5"
  },
