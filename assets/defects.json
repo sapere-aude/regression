@@ -625,7 +625,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 20,
-   "ToDo": 20,
+   "ToDo": 4,
    "ScheduleState": "In-Progress",
    "Creation Date": "05/14/2018 10:09 AM CDT"
  },
@@ -638,6 +638,16 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "05/14/2018 04:29 PM CDT"
+ },
+ {
+   "FormattedID": "DE8177",
+   "Name": "Manual Close Pay Process -  Step 11 -Create Laborview Pay Period  shows in progress , even though the process on queues are completed.",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "05/15/2018 11:20 AM CDT"
  },
  {
    "FormattedID": "DE8184",
@@ -768,5 +778,25 @@
    "ToDo": 0,
    "ScheduleState": "Backlog",
    "Creation Date": "06/01/2018 10:31 AM CDT"
+ },
+ {
+   "FormattedID": "DE8297",
+   "Name": "Transaction Recovery utility's Search functionality is broken",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "06/04/2018 04:14 PM CDT"
+ },
+ {
+   "FormattedID": "DE8298",
+   "Name": "Transaction Recovery tool's Submit button throws unhandled exception",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog",
+   "Creation Date": "06/04/2018 04:36 PM CDT"
  }
 ]
