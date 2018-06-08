@@ -1,812 +1,731 @@
 [
  {
-   "Formatted ID": "DE7851",
+   "FormattedID": "DE7851",
    "Name": "Admin/Supervisor has to perform Delete Request twice to get the transaction record deleted.",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "03/29/2018 02:58 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7852",
+   "FormattedID": "DE7852",
    "Name": "Cancel Note Button not  display in Chrome Browser",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "03/29/2018 03:03 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7854",
+   "FormattedID": "DE7854",
    "Name": "Delete Adjustment request throws  unauthorized operation error",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "03/29/2018 03:10 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7857",
+   "FormattedID": "DE7857",
    "Name": "Self Schedule: Unhanded Exception when Employee tried to Self Schedule",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 4,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "03/30/2018 10:27 AM CDT"
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7859",
+   "FormattedID": "DE7859",
    "Name": "Activity Code lookup on Broadcast window not returning any data",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "03/30/2018 11:07 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7860",
+   "FormattedID": "DE7860",
    "Name": "Sporadically you see 'Dashboard Server must be running' message on silverlight windows",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 4,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "03/30/2018 11:29 AM CDT"
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7865",
+   "FormattedID": "DE7865",
    "Name": "Process Developer - Could not load API.Healthcare.Platform.Common.Web assembly",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 9,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "03/31/2018 12:42 PM CDT"
+   "TaskEstimateTotal": 9,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7891",
+   "FormattedID": "DE7891",
    "Name": "TimeoutException in Primary n Agent Console log",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 6,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/04/2018 11:51 AM CDT"
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7892",
+   "FormattedID": "DE7892",
    "Name": "Intermittently  - You are not authorized to view the request page Authorization warning page appears",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/04/2018 12:47 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7897",
+   "FormattedID": "DE7897",
    "Name": "(Datetime) Transaction - Request Differences  has incorrect offsets",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/04/2018 02:38 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7900",
+   "FormattedID": "DE7900",
    "Name": "Error occurs when starting the File Share Server",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 12,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/04/2018 04:27 PM CDT"
+   "TaskEstimateTotal": 12,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7906",
+   "FormattedID": "DE7906",
    "Name": "Agent server n Primary Server consoles throwing HttpResponseException because of 'localhost' reference in action response",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 14,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/05/2018 11:10 AM CDT"
+   "TaskEstimateTotal": 14,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7907",
+   "FormattedID": "DE7907",
    "Name": "Host Name for Agent,Staffing and Mobile Console pages is named as Primary",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/05/2018 11:24 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7909",
+   "FormattedID": "DE7909",
    "Name": "WhenScheduled and WhenCompleted timestamp values not getting updated",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/05/2018 11:38 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7919",
+   "FormattedID": "DE7919",
    "Name": "Transaction List - Multi Checkbox Selection not working",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/06/2018 02:26 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7925",
+   "FormattedID": "DE7925",
    "Name": "“Save” button is enabled on the “Unavailability Requests” card when user cannot save/edit",
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/09/2018 11:28 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7936",
+   "FormattedID": "DE7936",
    "Name": "Add Schedule on Active Roster or Assign on CSO not working",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Defined",
-   "Creation Date": "04/10/2018 01:02 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
  },
  {
-   "Formatted ID": "DE7942",
+   "FormattedID": "DE7942",
    "Name": "Opening a Broadcast-ed shift throws an error",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 28,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/11/2018 12:16 PM CDT"
+   "TaskEstimateTotal": 28,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7943",
+   "FormattedID": "DE7943",
    "Name": "Exception occurs while adding adjustment request",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 8,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/11/2018 04:51 PM CDT"
+   "TaskEstimateTotal": 8,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7953",
+   "FormattedID": "DE7953",
    "Name": "System is throwing unhandled exception on Benefits Plan view",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 4,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/12/2018 04:18 PM CDT"
+   "TaskEstimateTotal": 4,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7954",
+   "FormattedID": "DE7954",
    "Name": "Doing calc me now after adding Attendance transactions throws alerts",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/13/2018 10:23 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7955",
+   "FormattedID": "DE7955",
    "Name": "Console page doesn't always properly re-route to the console",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/13/2018 11:00 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE7956",
+   "FormattedID": "DE7956",
    "Name": "System Trigger indicators are not honored for Schedule Validation and Qualifications process executions",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/13/2018 02:29 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE7964",
+   "FormattedID": "DE7964",
    "Name": "(Datetime)   EmployeeRequest Table - When Reviewed shows incorrect offset",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/16/2018 01:33 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8006",
+   "FormattedID": "DE8006",
    "Name": "Active Roster-Calendar transaction Mismatch and Productive columns not checked",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 6,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/18/2018 02:54 PM CDT"
+   "TaskEstimateTotal": 6,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8007",
+   "FormattedID": "DE8007",
    "Name": "(Datetime) - Unable to save calendar with in the exclusion time window for pay period",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/18/2018 03:03 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8023",
+   "FormattedID": "DE8023",
    "Name": "Needs missing in Active Roster-Can be seen in CSO",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 16,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/20/2018 10:31 AM CDT"
+   "TaskEstimateTotal": 16,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8035",
+   "FormattedID": "DE8035",
    "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/23/2018 03:24 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8037",
+   "FormattedID": "DE8037",
    "Name": "Unable to save calendar/clocking with in the exclusion time window for Exclusion Type -pay period",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 3,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/23/2018 04:09 PM CDT"
+   "TaskEstimateTotal": 3,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8038",
+   "FormattedID": "DE8038",
    "Name": "Exclusion Times - Able to save calendar with in the exclusion time window",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 16,
-   "To Do": 8,
-   "Schedule State": "In-Progress",
-   "Creation Date": "04/23/2018 04:21 PM CDT"
+   "TaskEstimateTotal": 16,
+   "ToDo": 8,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8045",
+   "FormattedID": "DE8045",
    "Name": "Extra Shift icon not displayed on CSO screen.",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/24/2018 01:17 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8047",
+   "FormattedID": "DE8047",
    "Name": "Transactions -  RequestHistory Tab Save Button is not aligned with page events",
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/24/2018 01:31 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8048",
+   "FormattedID": "DE8048",
    "Name": "Activity code lookup selection is not populating expected fields.",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/24/2018 01:31 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8051",
+   "FormattedID": "DE8051",
    "Name": "Left context menu title is upside down when collapsed",
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/24/2018 01:47 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8053",
+   "FormattedID": "DE8053",
    "Name": "Employee Sections- Addresses and Phones screens not shows valid message upon deleting the last record",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/24/2018 02:57 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8055",
+   "FormattedID": "DE8055",
    "Name": "MessageTimeoutException for ScheduleQualificationForAll process",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 11,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/24/2018 04:17 PM CDT"
+   "TaskEstimateTotal": 11,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8059",
+   "FormattedID": "DE8059",
    "Name": "(Datetime)Report Instance table - WhenExpire column shows incorrect datetime offset",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/25/2018 09:10 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8062",
+   "FormattedID": "DE8062",
    "Name": "Exclusive User - Add search results throws '404- File or directory not found' server error",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/25/2018 11:06 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8064",
+   "FormattedID": "DE8064",
    "Name": "Unhanded Exception when Supervisor tries to approve a duplicate request",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/25/2018 01:55 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8066",
+   "FormattedID": "DE8066",
    "Name": "2 Alerts generate when scheduletrade offer is approved.",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 11,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/25/2018 02:33 PM CDT"
+   "TaskEstimateTotal": 11,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8067",
+   "FormattedID": "DE8067",
    "Name": "Adding a schedule note on CSO window throws 2 errors",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 6.5,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/25/2018 03:12 PM CDT"
+   "TaskEstimateTotal": 6.5,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8071",
+   "FormattedID": "DE8071",
    "Name": "HttpException: File does not exist Alert",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 2,
-   "To Do": 1,
-   "Schedule State": "In-Progress",
-   "Creation Date": "04/25/2018 04:00 PM CDT"
+   "TaskEstimateTotal": 2,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8085",
+   "FormattedID": "DE8085",
    "Name": "Object reference not set error is thrown when CloudLicense value is NULL in database",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/27/2018 03:40 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8086",
+   "FormattedID": "DE8086",
    "Name": "Registered Applications link does not open up from DispatchServer2",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "04/27/2018 03:50 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8090",
+   "FormattedID": "DE8090",
    "Name": "Notes: Trying to add Notes to Calendar its not saving",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 2.5,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "04/30/2018 11:10 AM CDT"
+   "TaskEstimateTotal": 2.5,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8091",
+   "FormattedID": "DE8091",
    "Name": "No Acceptance Confirmation email been generated for Claimed broadcast",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 6,
-   "To Do": 4,
-   "Schedule State": "In-Progress",
-   "Creation Date": "04/30/2018 12:31 PM CDT"
+   "TaskEstimateTotal": 6,
+   "ToDo": 4,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8097",
+   "FormattedID": "DE8097",
    "Name": "MessageTimeoutException is thrown for SchedulePeriodValidationForAll process",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/01/2018 02:17 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8099",
+   "FormattedID": "DE8099",
    "Name": "Employee Search is not working on CSO screen",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/02/2018 10:11 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8103",
+   "FormattedID": "DE8103",
    "Name": "Adding a  calendar from employee throws an error",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/02/2018 04:00 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8106",
+   "FormattedID": "DE8106",
    "Name": "DateTime Issue with Rotating Schedule Templates",
    "Severity": "",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/03/2018 11:24 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8120",
+   "FormattedID": "DE8120",
    "Name": "Searching  a trade request based of OrgUnit or scheduleGroup throws an error",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/07/2018 03:11 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8121",
+   "FormattedID": "DE8121",
    "Name": "System is throwing exception while Applying Core Staffing Template",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/07/2018 03:25 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8124",
+   "FormattedID": "DE8124",
    "Name": "Supervisor LaborView not appearing in the Filter",
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/07/2018 04:25 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8125",
+   "FormattedID": "DE8125",
    "Name": "\"Auto Forward Assignment\" throwing Exception",
    "Severity": "",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 2,
-   "To Do": 2,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/07/2018 05:01 PM CDT"
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8126",
+   "FormattedID": "DE8126",
    "Name": "Staff Scheduling reports throw FormatException",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 3,
-   "To Do": 1,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/08/2018 10:15 AM CDT"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8132",
+   "FormattedID": "DE8132",
    "Name": "InvalidOperationException on My Schedule Report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 3,
-   "To Do": 1,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/08/2018 01:56 PM CDT"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8135",
+   "FormattedID": "DE8135",
    "Name": "Today's Daily Roster by Schedule Group (Letter) Report Fails to load",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 3,
-   "To Do": 1,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/08/2018 02:14 PM CDT"
+   "TaskEstimateTotal": 3,
+   "ToDo": 1,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8146",
+   "FormattedID": "DE8146",
    "Name": "Creating a Offer/Trade request doesnt show up as Vacancy on Monthly View",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/09/2018 02:55 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8157",
+   "FormattedID": "DE8157",
    "Name": "Schedule reports throwing Unauthorized exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 8,
-   "To Do": 8,
-   "Schedule State": "Defined",
-   "Creation Date": "05/11/2018 11:11 AM CDT"
+   "TaskEstimateTotal": 8,
+   "ToDo": 8,
+   "ScheduleState": "Defined"
  },
  {
-   "Formatted ID": "DE8158",
+   "FormattedID": "DE8158",
    "Name": "Retro Job -  Performing the Complete task, the Retro Job process is not completed  and  not shows correct status",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 16,
-   "To Do": 1,
-   "Schedule State": "In-Progress",
-   "Creation Date": "05/11/2018 12:07 PM CDT"
+   "TaskEstimateTotal": 16,
+   "ToDo": 1,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8160",
+   "FormattedID": "DE8160",
    "Name": "Manual Close Pay Process - Step 10  Archive Time Card Reports  shows in progress and throws  storage volume alerts",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 18,
-   "To Do": 0,
-   "Schedule State": "Completed",
-   "Creation Date": "05/11/2018 12:33 PM CDT"
+   "TaskEstimateTotal": 18,
+   "ToDo": 0,
+   "ScheduleState": "Completed"
  },
  {
-   "Formatted ID": "DE8168",
+   "FormattedID": "DE8168",
    "Name": "SmtpException: Failure sending mail",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/13/2018 11:40 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8172",
+   "FormattedID": "DE8172",
    "Name": "Retro Adjustment -  Saving Adjustment or Clicking on Retro Tab while adding Adjustment throws Null Reference Exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 20,
-   "To Do": 0,
-   "Schedule State": "Accepted",
-   "Creation Date": "05/14/2018 10:09 AM CDT"
+   "TaskEstimateTotal": 20,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
  },
  {
-   "Formatted ID": "DE8176",
+   "FormattedID": "DE8176",
    "Name": "Next Execution column remains BLANK on schedule reports",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/14/2018 04:29 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8177",
+   "FormattedID": "DE8177",
    "Name": "Manual Close Pay Process -  Step 11 -Create Laborview Pay Period  shows in progress , even though the process on queues are completed.",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "In-Progress",
-   "Creation Date": "05/15/2018 11:20 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8184",
+   "FormattedID": "DE8184",
    "Name": "SqlException when two schedule tasks been added on same report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 2,
-   "To Do": 2,
-   "Schedule State": "In-Progress",
-   "Creation Date": "05/16/2018 02:02 PM CDT"
+   "TaskEstimateTotal": 2,
+   "ToDo": 2,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8189",
+   "FormattedID": "DE8189",
    "Name": "Delivery Format as LINK is not working",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/16/2018 04:33 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8199",
+   "FormattedID": "DE8199",
    "Name": "Historical - 4 Week Schedule (Legal) is executing the wrong report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/17/2018 01:05 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8205",
+   "FormattedID": "DE8205",
    "Name": "Unhandled Exception on Employee Laborview for the the filter \"Lunch Responses\"",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/18/2018 07:23 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8206",
+   "FormattedID": "DE8206",
    "Name": "Hand icon/ indication that user can click on the graph on the Home Page when it is not linked",
    "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/18/2018 07:57 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8211",
+   "FormattedID": "DE8211",
    "Name": "Intermittent Redis Timeout Exception : \"Timeout performing SCAN\"",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/22/2018 10:14 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8215",
+   "FormattedID": "DE8215",
    "Name": "Self Schedule days are inconsistent  when \"Begin Day of Week\" is not aligned to \"Resume Date\"",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/22/2018 11:38 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8220",
+   "FormattedID": "DE8220",
    "Name": "Controller Graphs are not showing appropriate Legend",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/22/2018 01:27 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8264",
+   "FormattedID": "DE8264",
    "Name": "Silverlight version error when loading Silverlight screens",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/30/2018 08:04 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8271",
+   "FormattedID": "DE8271",
    "Name": "Running a 'ScheduleQualificationForAll' process throws an error on agent server",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/30/2018 03:08 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8280",
+   "FormattedID": "DE8280",
    "Name": "Running a 'SchedulePeriodValidationForAll' process throws an error on agent server",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "05/31/2018 10:27 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8290",
+   "FormattedID": "DE8290",
    "Name": "Auto Pay Close Throwing Alert & Not Working",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 16,
-   "To Do": 4,
-   "Schedule State": "In-Progress",
-   "Creation Date": "06/01/2018 08:35 AM CDT"
+   "TaskEstimateTotal": 16,
+   "ToDo": 4,
+   "ScheduleState": "In-Progress"
  },
  {
-   "Formatted ID": "DE8291",
+   "FormattedID": "DE8291",
    "Name": "Silver Light Screens-  Opening CSO, Active Roster, Staffing Plan, Core Staffing Plan  screens , user is logged out from webportal",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Defined",
-   "Creation Date": "06/01/2018 10:31 AM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
  },
  {
-   "Formatted ID": "DE8294",
+   "FormattedID": "DE8294",
    "Name": "Schedule Standard 3 not validating minimum weekends correctly",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "06/01/2018 02:35 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8297",
+   "FormattedID": "DE8297",
    "Name": "Transaction Recovery utility's Search functionality is broken",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 0,
-   "To Do": 0,
-   "Schedule State": "Backlog",
-   "Creation Date": "06/04/2018 04:14 PM CDT"
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  },
  {
-   "Formatted ID": "DE8298",
+   "FormattedID": "DE8298",
    "Name": "Transaction Recovery tool's Submit button throws unhandled exception",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "Task Estimate Total": 6,
-   "To Do": 6,
-   "Schedule State": "In-Progress",
-   "Creation Date": "06/04/2018 04:36 PM CDT"
+   "TaskEstimateTotal": 6,
+   "ToDo": 6,
+   "ScheduleState": "In-Progress"
  }
 ]
