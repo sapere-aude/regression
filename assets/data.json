@@ -1,13 +1,5 @@
 [
  {
-   "FormattedID": "US20218",
-   "Name": "Staffing Recalculation Process (Models)",
-   "ScheduleState": "Defined",
-   "TaskEstimateTotal": 14,
-   "TaskRemainingTotal": 14,
-   "Blocked": true
- },
- {
    "FormattedID": "US20228",
    "Name": "External (Interfaces, Downloads, Services)",
    "ScheduleState": "Defined",
@@ -32,11 +24,11 @@
    "Blocked": false
  },
  {
-   "FormattedID": "US20217",
-   "Name": "Minimum Scheduling (Commitments)",
+   "FormattedID": "US20218",
+   "Name": "Staffing Recalculation Process (Models)",
    "ScheduleState": "In-Progress",
-   "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 4,
+   "TaskEstimateTotal": 14,
+   "TaskRemainingTotal": 14,
    "Blocked": false
  },
  {
@@ -69,14 +61,6 @@
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 16,
    "TaskRemainingTotal": 12,
-   "Blocked": false
- },
- {
-   "FormattedID": "US20216",
-   "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
-   "ScheduleState": "Completed",
-   "TaskEstimateTotal": 12,
-   "TaskRemainingTotal": 0,
    "Blocked": false
  },
  {
@@ -156,6 +140,22 @@
    "Name": "Current Staffing Overview",
    "ScheduleState": "Accepted",
    "TaskEstimateTotal": 34,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20216",
+   "Name": "Schedule Life-cycle (Phases and Scheduling Passes)",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 12,
+   "TaskRemainingTotal": 0,
+   "Blocked": false
+ },
+ {
+   "FormattedID": "US20217",
+   "Name": "Minimum Scheduling (Commitments)",
+   "ScheduleState": "Accepted",
+   "TaskEstimateTotal": 12,
    "TaskRemainingTotal": 0,
    "Blocked": false
  },
