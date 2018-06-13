@@ -5,7 +5,7 @@
    "ScheduleState": "Defined",
    "TaskEstimateTotal": 10,
    "TaskRemainingTotal": 10,
-   "Blocked": true
+   "Blocked": false
  },
  {
    "FormattedID": "US20243",
@@ -36,8 +36,8 @@
    "Name": "Retro Calcs",
    "ScheduleState": "In-Progress",
    "TaskEstimateTotal": 10,
-   "TaskRemainingTotal": 10,
-   "Blocked": true
+   "TaskRemainingTotal": 4,
+   "Blocked": false
  },
  {
    "FormattedID": "US20223",
