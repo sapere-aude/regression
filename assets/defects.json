@@ -423,24 +423,6 @@
    "ScheduleState": "Accepted"
  },
  {
-   "FormattedID": "DE8099",
-   "Name": "Employee Search is not working on CSO screen",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
- },
- {
-   "FormattedID": "DE8100",
-   "Name": "Compare staff window is missing some data",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 14,
-   "ToDo": 14,
-   "ScheduleState": "In-Progress"
- },
- {
    "FormattedID": "DE8101",
    "Name": "Roster tab not displaying data in certain scenarios",
    "Severity": "1 - Crash/Data Loss",
