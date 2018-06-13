@@ -355,9 +355,9 @@
    "Name": "2 Alerts generate when scheduletrade offer is approved.",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 11,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
+   "TaskEstimateTotal": 23,
+   "ToDo": 4.5,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8067",
@@ -430,6 +430,24 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8101",
+   "Name": "Roster tab not displaying data in certain scenarios",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 12,
+   "ToDo": 0,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8103",
@@ -537,7 +555,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 1,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Completed"
  },
  {
    "FormattedID": "DE8160",
@@ -546,7 +564,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 18,
    "ToDo": 0,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8168",
@@ -569,7 +587,7 @@
  {
    "FormattedID": "DE8176",
    "Name": "Next Execution column remains BLANK on schedule reports",
-   "Severity": "3 - Minor Problem",
+   "Severity": "4 - Cosmetic",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -589,14 +607,14 @@
    "Name": "SqlException when two schedule tasks been added on same report",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 2,
-   "ToDo": 2,
+   "TaskEstimateTotal": 10,
+   "ToDo": 8,
    "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8189",
    "Name": "Delivery Format as LINK is not working",
-   "Severity": "1 - Crash/Data Loss",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -605,7 +623,7 @@
  {
    "FormattedID": "DE8199",
    "Name": "Historical - 4 Week Schedule (Legal) is executing the wrong report",
-   "Severity": "2 - Major Problem",
+   "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
@@ -727,5 +745,32 @@
    "TaskEstimateTotal": 6,
    "ToDo": 6,
    "ScheduleState": "In-Progress"
+ },
+ {
+   "FormattedID": "DE8321",
+   "Name": "Accessing Archived Schedule Reports throws an error occurred while processing your request message",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8322",
+   "Name": "Accessing Historical-Hours By Pay Code throws Critical Message exception",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8339",
+   "Name": "Payroll Interface file is not getting generated from the Process Developer and \"Close Pay Period\" in the Portal",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
  }
 ]
