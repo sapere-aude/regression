@@ -234,15 +234,6 @@
    "ScheduleState": "Accepted"
  },
  {
-   "FormattedID": "DE8023",
-   "Name": "Needs missing in Active Roster-Can be seen in CSO",
-   "Severity": "2 - Major Problem",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 16,
-   "ToDo": 0,
-   "ScheduleState": "Accepted"
- },
- {
    "FormattedID": "DE8035",
    "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
    "Severity": "3 - Minor Problem",
@@ -356,7 +347,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 23,
-   "ToDo": 4.5,
+   "ToDo": 4,
    "ScheduleState": "In-Progress"
  },
  {
@@ -375,7 +366,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 2,
    "ToDo": 1,
-   "ScheduleState": "In-Progress"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8085",
@@ -421,6 +412,24 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Accepted"
+ },
+ {
+   "FormattedID": "DE8099",
+   "Name": "Employee Search is not working on CSO screen",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8100",
+   "Name": "Compare staff window is missing some data",
+   "Severity": "1 - Crash/Data Loss",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 14,
+   "ToDo": 14,
+   "ScheduleState": "In-Progress"
  },
  {
    "FormattedID": "DE8101",
@@ -517,9 +526,9 @@
    "Name": "Creating a Offer/Trade request doesnt show up as Vacancy on Monthly View",
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "TaskEstimateTotal": 6,
+   "ToDo": 6,
+   "ScheduleState": "Defined"
  },
  {
    "FormattedID": "DE8157",
@@ -580,8 +589,8 @@
    "Name": "Manual Close Pay Process -  Step 11 -Create Laborview Pay Period  shows in progress , even though the process on queues are completed.",
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 0,
-   "ToDo": 0,
+   "TaskEstimateTotal": 18,
+   "ToDo": 6,
    "ScheduleState": "In-Progress"
  },
  {
@@ -590,7 +599,7 @@
    "Severity": "2 - Major Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 10,
-   "ToDo": 8,
+   "ToDo": 2,
    "ScheduleState": "In-Progress"
  },
  {
@@ -649,7 +658,7 @@
  },
  {
    "FormattedID": "DE8220",
-   "Name": "Controller Graphs are not showing appropriate Legend",
+   "Name": "Controller Graphs are not showing appropriate Legend - Pending Discussion with Tim S",
    "Severity": "3 - Minor Problem",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
@@ -699,7 +708,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Defined"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8294",
