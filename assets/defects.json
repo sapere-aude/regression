@@ -234,6 +234,15 @@
    "ScheduleState": "Accepted"
  },
  {
+   "FormattedID": "DE8023",
+   "Name": "Needs missing in Active Roster-Can be seen in CSO",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 16,
+   "ToDo": 0,
+   "ScheduleState": "Accepted"
+ },
+ {
    "FormattedID": "DE8035",
    "Name": "Transaction Grid - Notes Section  not displays all information like in Transaction List( Notes Section)",
    "Severity": "3 - Minor Problem",
