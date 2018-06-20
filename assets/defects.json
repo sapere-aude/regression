@@ -123,7 +123,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 0,
    "ToDo": 0,
-   "ScheduleState": "Backlog"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE7919",
@@ -432,24 +432,6 @@
    "ScheduleState": "Backlog"
  },
  {
-   "FormattedID": "DE8100",
-   "Name": "Compare staff window is missing some data",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 14,
-   "ToDo": 14,
-   "ScheduleState": "In-Progress"
- },
- {
-   "FormattedID": "DE8101",
-   "Name": "Roster tab not displaying data in certain scenarios",
-   "Severity": "1 - Crash/Data Loss",
-   "Tags": "\"Cloud Regression Phase 1\"",
-   "TaskEstimateTotal": 12,
-   "ToDo": 0,
-   "ScheduleState": "In-Progress"
- },
- {
    "FormattedID": "DE8103",
    "Name": "Adding a  calendar from employee throws an error",
    "Severity": "2 - Major Problem",
@@ -555,7 +537,7 @@
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 16,
    "ToDo": 1,
-   "ScheduleState": "Completed"
+   "ScheduleState": "Accepted"
  },
  {
    "FormattedID": "DE8160",
@@ -599,7 +581,7 @@
    "Severity": "1 - Crash/Data Loss",
    "Tags": "\"Cloud Regression Phase 1\"",
    "TaskEstimateTotal": 18,
-   "ToDo": 6,
+   "ToDo": 2,
    "ScheduleState": "In-Progress"
  },
  {
@@ -772,5 +754,14 @@
    "TaskEstimateTotal": 0,
    "ToDo": 0,
    "ScheduleState": "Backlog"
+ },
+ {
+   "FormattedID": "DE8367",
+   "Name": "Report Compare Issues",
+   "Severity": "2 - Major Problem",
+   "Tags": "\"Cloud Regression Phase 1\"",
+   "TaskEstimateTotal": 0,
+   "ToDo": 0,
+   "ScheduleState": "Defined"
  }
 ]
